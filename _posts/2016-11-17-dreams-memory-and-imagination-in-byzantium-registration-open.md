@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Dreams, Memory and Imagination in Byzantium - Registration Open
+title: |
+   Dreams, Memory and Imagination in Byzantium - Registration Open
 date: 2016-11-17
 ---
 

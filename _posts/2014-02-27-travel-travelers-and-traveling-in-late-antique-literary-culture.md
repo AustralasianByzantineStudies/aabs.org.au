@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Travel, Travelers and Traveling in Late Antique Literary Culture
+title: |
+   Travel, Travelers and Traveling in Late Antique Literary Culture
 date: 2014-02-27
 ---
 

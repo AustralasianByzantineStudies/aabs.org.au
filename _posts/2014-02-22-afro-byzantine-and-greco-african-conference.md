@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Afro-Byzantine and Greco-African Conference
+title: |
+   Afro-Byzantine and Greco-African Conference
 date: 2014-02-22
 ---
 

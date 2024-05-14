@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Australian Association for Byzantine Studies Name Change
+title: |
+   Australian Association for Byzantine Studies Name Change
 date: 2017-12-13
 ---
 

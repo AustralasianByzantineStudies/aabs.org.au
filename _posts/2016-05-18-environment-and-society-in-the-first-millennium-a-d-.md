@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Environment and Society in the First Millennium A.D.
+title: |
+   Environment and Society in the First Millennium A.D.
 date: 2016-05-18
 ---
 
@@ -64,7 +65,7 @@ Registration
 
 Places are limited. To
 register for the conference write to
-[M.Mulryan@kent.ac.uk](https://owa.unimelb.edu.au/owa/redir.aspx?REF=Hm0lrp4JkKmxw64VhtlRfP8qBuVeOe_9WwU0LOiWRZlil7aus37TCAFtYWlsdG86TS5NdWxyeWFuQGtlbnQuYWMudWs.){target="_blank"}
+[M.Mulryan@kent.ac.uk](https://owa.unimelb.edu.au/owa/redir.aspx?REF=Hm0lrp4JkKmxw64VhtlRfP8qBuVeOe_9WwU0LOiWRZlil7aus37TCAFtYWlsdG86TS5NdWxyeWFuQGtlbnQuYWMudWs.)
 before **15 September**. Registration opens at 9:15. The conference
 begins at 9:30.
 Underground: Green Park and Piccadilly

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Cross-Cultural Exchange in the Byzantine World, c. 300-c. 1500
+title: |
+   Cross-Cultural Exchange in the Byzantine World, c. 300-c. 1500
 date: 2014-11-17
 ---
 
@@ -67,4 +68,4 @@ Subject to funding, the OUBS hopes to offer subsidised accommodation for
 visiting
 speakers.
 
-[http://oxfordbyzantinesociety.wordpress.com](http://oxfordbyzantinesociety.wordpress.com){target="_blank"}
+[http://oxfordbyzantinesociety.wordpress.com](http://oxfordbyzantinesociety.wordpress.com)

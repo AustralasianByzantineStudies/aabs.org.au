@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Late Antiquity, Kalamazoo 2015
+title: |
+   Late Antiquity, Kalamazoo 2015
 date: 2014-08-05
 ---
 

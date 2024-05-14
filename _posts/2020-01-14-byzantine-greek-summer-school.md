@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantine Greek Summer School
+title: |
+   Byzantine Greek Summer School
 date: 2020-01-14
 ---
 
@@ -125,8 +126,7 @@ attend the courses free of charge. Additionally, we offer:
 Candidates should submit their application to the Byzantine
 Studies Research Center at Boğaziçi University before **February 28,
 2020**. The application file should be in English and include a
-[statement of purpose]{style="text-decoration: underline;"}, a [detailed
-CV]{style="text-decoration: underline;"}, and [proof of having completed
+[statement of purpose]{style="text-decoration: underline;"}, a [detailedCV]{style="text-decoration: underline;"}, and [proof of having completed
 at least two semesters of college-level Classical Greek or its
 equivalent]{style="text-decoration: underline;"}. Applicants should
 indicate in the statement of purpose their background in Classical or

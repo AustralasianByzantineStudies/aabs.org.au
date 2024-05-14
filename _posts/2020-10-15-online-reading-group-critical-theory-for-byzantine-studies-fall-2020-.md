@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Online Reading Group: Critical Theory for Byzantine Studies (Fall 2020)
+title: |
+   Online Reading Group: Critical Theory for Byzantine Studies (Fall 2020)
 date: 2020-10-15
 ---
 

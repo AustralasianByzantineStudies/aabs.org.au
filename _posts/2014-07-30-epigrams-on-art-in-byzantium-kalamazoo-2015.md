@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Epigrams on Art in Byzantium, Kalamazoo 2015
+title: |
+   Epigrams on Art in Byzantium, Kalamazoo 2015
 date: 2014-07-30
 ---
 
@@ -64,6 +65,6 @@ conference registration, transportation, and food and lodging. Receipts
 are required for reimbursement.
 
 Please contact Brandie
-Ratliff ([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){target="_blank"}),
+Ratliff ([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)),
 Director, Mary Jaharis Center for Byzantine Art and Culture with any
 questions.

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Villa I Tatti–Boğaziçi University Joint Postdoctoral Fellowship (2019-2020)
+title: |
+   Villa I Tatti–Boğaziçi University Joint Postdoctoral Fellowship (2019-2020)
 date: 2018-10-12
 ---
 

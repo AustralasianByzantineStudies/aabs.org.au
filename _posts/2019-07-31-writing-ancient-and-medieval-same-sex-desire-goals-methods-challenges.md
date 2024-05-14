@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Writing Ancient and Medieval Same-Sex Desire: Goals, Methods, Challenges
+title: |
+   Writing Ancient and Medieval Same-Sex Desire: Goals, Methods, Challenges
 date: 2019-07-31
 ---
 
 **June 30-July 2 2020,** Victoria University of Wellington, New
 Zealand
 
-[https://cms.victoria.ac.nz/slc/about/events/writing-ancient-and-medieval-same-sex-desire-goals,-methods,-challenges](https://cms.victoria.ac.nz/slc/about/events/writing-ancient-and-medieval-same-sex-desire-goals,-methods,-challenges){target="_blank"}
+[https://cms.victoria.ac.nz/slc/about/events/writing-ancient-and-medieval-same-sex-desire-goals,-methods,-challenges](https://cms.victoria.ac.nz/slc/about/events/writing-ancient-and-medieval-same-sex-desire-goals,-methods,-challenges)
 
 This
 call for papers is for a conference to take place June 30-July 2, 2020

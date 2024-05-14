@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Call for Applications: Mary Jaharis Center Grants 2023–2024
+title: |
+   Call for Applications: Mary Jaharis Center Grants 2023–2024
 date: 2022-12-03
 ---
 
@@ -48,7 +49,7 @@ submission of first-book projects.
 The application deadline
 for all grants is February 1, 2023. For further information, please
 visit the Mary Jaharis Center website
-([https://maryjahariscenter.org/grants](https://maryjahariscenter.org/grants){target="_blank"}).
+([https://maryjahariscenter.org/grants](https://maryjahariscenter.org/grants)).
 
 Contact
 Brandie Ratliff

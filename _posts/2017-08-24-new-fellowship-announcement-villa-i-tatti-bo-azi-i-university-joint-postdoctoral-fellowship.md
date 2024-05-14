@@ -1,6 +1,7 @@
 ---
 layout: post
-title: New Fellowship Announcement: Villa I Tatti–Boğaziçi University Joint Postdoctoral Fellowship
+title: |
+   New Fellowship Announcement: Villa I Tatti–Boğaziçi University Joint Postdoctoral Fellowship
 date: 2017-08-24
 ---
 
@@ -21,8 +22,7 @@ sheet](http://www.aabs.org.au/wp-content/uploads/2017/08/ITatti-BU-JointPostdoc_
 
 For
 further information please visit
-[http://byzantinestudies.boun.edu.tr/index.php](https://protect-au.mimecast.com/s/K41rBvSLKJzMh9?domain=byzantinestudies.boun.edu.tr){target="_blank"
-rel="noreferrer noopener"}
+[http://byzantinestudies.boun.edu.tr/index.php](https://protect-au.mimecast.com/s/K41rBvSLKJzMh9?domain=byzantinestudies.boun.edu.tr)
 
 Byzantine Studies Research
 Center,

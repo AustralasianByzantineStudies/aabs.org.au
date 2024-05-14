@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Russian State Hermitage Conferences
+title: |
+   Russian State Hermitage Conferences
 date: 2017-02-18
 ---
 

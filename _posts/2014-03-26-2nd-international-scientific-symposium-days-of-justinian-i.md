@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 2nd International Scientific Symposium - Days of Justinian I
+title: |
+   2nd International Scientific Symposium - Days of Justinian I
 date: 2014-03-26
 ---
 

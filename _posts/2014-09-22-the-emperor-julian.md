@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Emperor Julian
+title: |
+   The Emperor Julian
 date: 2014-09-22
 ---
 
@@ -43,10 +44,10 @@ Classical Studies (formerly the American Philological Association), to
 take place in San Francisco between **7 and 10 January 2016**. One-page
 abstracts (ca. 400 words) for papers requiring a maximum of 20 minutes
 to deliver should be sent by email attachment to Gavin Kelly at
-[[Gavin.Kelly@ed.ac.uk](mailto:Gavin.Kelly@ed.ac.uk){target="_blank"}]{style="text-decoration: underline;"}
+[[Gavin.Kelly@ed.ac.uk](mailto:Gavin.Kelly@ed.ac.uk)]{style="text-decoration: underline;"}
 no later than Monday, 1**6 February 2015**. Please follow the SCS's
 instructions for the format of individual abstracts:
-[[http://www.apaclassics.org/index.php/annual_meeting/abstract_instructions/guidelines_for_authors_of_abstracts](http://www.apaclassics.org/index.php/annual_meeting/abstract_instructions/guidelines_for_authors_of_abstracts){target="_blank"}]{style="text-decoration: underline;"}.
+[[http://www.apaclassics.org/index.php/annual_meeting/abstract_instructions/guidelines_for_authors_of_abstracts](http://www.apaclassics.org/index.php/annual_meeting/abstract_instructions/guidelines_for_authors_of_abstracts)]{style="text-decoration: underline;"}.
 Prospective panelists must be members in good standing of the SCS at the
 time of submission and must include their SCS membership number in the
 cover letter accompanying their abstract. All proposals will be judged

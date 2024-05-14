@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 12th International Congress of Cretan Studies
+title: |
+   12th International Congress of Cretan Studies
 date: 2015-07-06
 ---
 

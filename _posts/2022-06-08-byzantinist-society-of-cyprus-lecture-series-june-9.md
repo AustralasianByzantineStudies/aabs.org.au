@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantinist Society of Cyprus Lecture Series -  June 9
+title: |
+   Byzantinist Society of Cyprus Lecture Series -  June 9
 date: 2022-06-08
 ---
 

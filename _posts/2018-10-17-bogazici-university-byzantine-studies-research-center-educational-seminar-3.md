@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Bogazici University - Byzantine Studies Research Center Educational Seminar - 3
+title: |
+   Bogazici University - Byzantine Studies Research Center Educational Seminar - 3
 date: 2018-10-17
 ---
 

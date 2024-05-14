@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Once and Future Kings: Roman Emperors and Western Political Culture from Antiquity to the Present
+title: |
+   The Once and Future Kings: Roman Emperors and Western Political Culture from Antiquity to the Present
 date: 2017-04-07
 ---
 
@@ -27,7 +28,7 @@ on Saturday, July 8.
 
 The conference web site, including a
 full programme, is available here:
-[https://hapi.uq.edu.au/once-and-future-kings-conference](https://protect-au.mimecast.com/s/pLGZBoiDV6MKHW?domain=hapi.uq.edu.au){target="_blank"}
+[https://hapi.uq.edu.au/once-and-future-kings-conference](https://protect-au.mimecast.com/s/pLGZBoiDV6MKHW?domain=hapi.uq.edu.au)
 
 [Download
 the
@@ -45,4 +46,4 @@ wishes,
 Caillan Davenport and Shushma
 Malik
 [c.davenport@uq.edu.au
-s.malik@uq.edu.au](mailto:s.malik@uq.edu.au){target="_blank"}
+s.malik@uq.edu.au](mailto:s.malik@uq.edu.au)

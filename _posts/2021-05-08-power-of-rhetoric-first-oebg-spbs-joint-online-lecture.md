@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Power of Rhetoric: First OEBG-SPBS Joint Online Lecture
+title: |
+   Power of Rhetoric: First OEBG-SPBS Joint Online Lecture
 date: 2021-05-08
 ---
 

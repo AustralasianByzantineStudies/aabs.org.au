@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Conflict in Late Antiquity
+title: |
+   Conflict in Late Antiquity
 date: 2014-04-08
 ---
 

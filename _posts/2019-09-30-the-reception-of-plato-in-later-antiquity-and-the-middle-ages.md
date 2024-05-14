@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Reception of Plato in Later Antiquity and the Middle Ages
+title: |
+   The Reception of Plato in Later Antiquity and the Middle Ages
 date: 2019-09-30
 ---
 
@@ -16,8 +17,7 @@ We have collaborated with the ISNS
 conference organisers so to facilitate the participation of local and
 international delegates to both events, but please note that the two
 events are run independently. News about our conference can be found on
-[https://evanagno.wixsite.com/platoreception](https://protect-au.mimecast.com/s/7ziCCWLJMvFBZAK1I6WYsH?domain=evanagno.wixsite.com){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}
+[https://evanagno.wixsite.com/platoreception](https://protect-au.mimecast.com/s/7ziCCWLJMvFBZAK1I6WYsH?domain=evanagno.wixsite.com)
 
 Our
 Approach:
@@ -50,12 +50,9 @@ conference organisers by **15 December 2019**. Accepted speakers will be
 notified by 15th January 2020.
 
 Our emails are:
-[Eva.Anagnostou-Laoutides@mq.edu.au](mailto:Eva.Anagnostou-Laoutides@mq.edu.au){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"};
-[G.Steiris@ppp.uoa.gr](mailto:G.Steiris@ppp.uoa.gr){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"};
-[garabatz@ppp.uoa.gr](mailto:garabatz@ppp.uoa.gr){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}
+[Eva.Anagnostou-Laoutides@mq.edu.au](mailto:Eva.Anagnostou-Laoutides@mq.edu.au);
+[G.Steiris@ppp.uoa.gr](mailto:G.Steiris@ppp.uoa.gr);
+[garabatz@ppp.uoa.gr](mailto:garabatz@ppp.uoa.gr)
 
 We look
 forward to receiving your

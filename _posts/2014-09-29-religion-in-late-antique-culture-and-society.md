@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Religion in Late Antique Culture and Society
+title: |
+   Religion in Late Antique Culture and Society
 date: 2014-09-29
 ---
 

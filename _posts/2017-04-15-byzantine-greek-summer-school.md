@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantine Greek Summer School
+title: |
+   Byzantine Greek Summer School
 date: 2017-04-15
 ---
 

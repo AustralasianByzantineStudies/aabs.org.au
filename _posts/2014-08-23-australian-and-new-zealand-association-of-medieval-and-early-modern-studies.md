@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Australian and New Zealand Association of Medieval and Early Modern Studies
+title: |
+   Australian and New Zealand Association of Medieval and Early Modern Studies
 date: 2014-08-23
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Interiority and Topographies of Self from Late Antiquity to the Middle Ages
+title: |
+   Interiority and Topographies of Self from Late Antiquity to the Middle Ages
 date: 2014-08-07
 ---
 

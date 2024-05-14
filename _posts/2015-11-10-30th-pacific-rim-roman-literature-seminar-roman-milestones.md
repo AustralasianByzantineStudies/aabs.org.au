@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 30th Pacific Rim Roman Literature Seminar: Roman Milestones
+title: |
+   30th Pacific Rim Roman Literature Seminar: Roman Milestones
 date: 2015-11-10
 ---
 

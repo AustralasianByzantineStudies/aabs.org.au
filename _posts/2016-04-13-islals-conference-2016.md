@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ISLALS Conference 2016
+title: |
+   ISLALS Conference 2016
 date: 2016-04-13
 ---
 
@@ -18,7 +19,7 @@ theoretical diatribe are all encouraged.
 If you would like to
 participate, please send a brief abstract of your paper via email
 attachment to Bret Mulligan
-([bmulliga@haverford.edu](mailto:bmulliga@haverford.edu){target="_blank"})
+([bmulliga@haverford.edu](mailto:bmulliga@haverford.edu))
 by **June 15, 2016**. Papers should run no longer than thirty minutes.
 Also welcome are abstracts for shorter papers and proposals for other
 forms of scholarly presentations (panels, lightning talks, posters,
@@ -40,10 +41,9 @@ conference can be found at
 
 Please
 send queries about conference particulars to Bret Mulligan at
-[bmulliga@haverford.edu](mailto:bmulliga@haverford.edu){target="_blank"}.
+[bmulliga@haverford.edu](mailto:bmulliga@haverford.edu).
 General queries about ISLALS may be sent to any member of the steering
-committee: [smcgill@rice.edu](mailto:smcgill@rice.edu){target="_blank"},
-[Joseph_Pucci@brown.edu](mailto:Joseph_Pucci@brown.edu){target="_blank"},
+committee: [smcgill@rice.edu](mailto:smcgill@rice.edu),[Joseph_Pucci@brown.edu](mailto:Joseph_Pucci@brown.edu),
 <dbright@emory.edu>.
 
 

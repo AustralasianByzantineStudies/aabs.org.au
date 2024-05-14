@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 2017 Meeting of ReLACS (Regional Late Antiquity Consortium Southeast)
+title: |
+   2017 Meeting of ReLACS (Regional Late Antiquity Consortium Southeast)
 date: 2017-06-17
 ---
 

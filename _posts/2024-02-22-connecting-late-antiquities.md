@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Connecting Late Antiquities
+title: |
+   Connecting Late Antiquities
 date: 2024-02-22
 ---
 

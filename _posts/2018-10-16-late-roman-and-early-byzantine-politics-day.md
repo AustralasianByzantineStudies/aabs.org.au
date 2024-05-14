@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Late Roman and Early Byzantine Politics Day
+title: |
+   Late Roman and Early Byzantine Politics Day
 date: 2018-10-16
 ---
 
@@ -24,7 +25,7 @@ Byzantine politics (c. 300-600AD).
 
 Please send prospective
 titles and a short abstract of up to 100 words
-to [meaghan.mcevoy@mq.edu.au](mailto:meaghan.mcevoy@mq.edu.au){target="_blank"} **by
+to [meaghan.mcevoy@mq.edu.au](mailto:meaghan.mcevoy@mq.edu.au) **by
 Friday October 26th**.
 
 In order to fund the cost of catering

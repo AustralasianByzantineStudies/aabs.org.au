@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Envisioning the Roman Emperor in Speech and Word in Late Antiquity
+title: |
+   Envisioning the Roman Emperor in Speech and Word in Late Antiquity
 date: 2018-03-19
 ---
 

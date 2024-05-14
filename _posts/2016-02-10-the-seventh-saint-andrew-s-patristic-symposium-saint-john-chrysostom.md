@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Seventh Saint Andrew’s Patristic Symposium: Saint John Chrysostom
+title: |
+   The Seventh Saint Andrew’s Patristic Symposium: Saint John Chrysostom
 date: 2016-02-10
 ---
 
@@ -9,7 +10,7 @@ Redfern, NSW, Australia**, 23--24 September
 2016**
 
 [Conference Web
-Site](http://www.sagotc.edu.au/patristic-symposia){target="_blank"}
+Site](http://www.sagotc.edu.au/patristic-symposia)
 
 Keynotes:
 
@@ -31,7 +32,7 @@ approaches, from theological to philological, from hermeneutical to
 ethical, from pastoral to exegetical, from historical to spiritual etc.,
 are welcome. Abstracts of up to 200 words should be sent to Doru
 Costache at
-[dcostache@sagotc.edu.au](mailto:dcostache@sagotc.edu.au){target="_blank"},
+[dcostache@sagotc.edu.au](mailto:dcostache@sagotc.edu.au),
 by the **end of May 2016.** The abstracts should be accompanied by brief
 biographical notes, mainly detailing the qualifications and affiliations
 of the contributors.
@@ -41,7 +42,7 @@ available for Australian postgraduate students not based in NSW,
 generously offered by Australian Research Theology Foundation Inc. To
 win a bursary, postgraduate students should send their papers in
 full-length to Doru Costache at
-[dcostache@sagotc.edu.au](mailto:dcostache@sagotc.edu.au){target="_blank"}
+[dcostache@sagotc.edu.au](mailto:dcostache@sagotc.edu.au)
 by the end of May 2016. The papers should not exceed 3,000 words,
 including footnotes. The winners of the two bursaries will be announced
 by the end of June 2016.

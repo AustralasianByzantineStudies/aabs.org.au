@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantina Australiensia Available Through Brill
+title: |
+   Byzantina Australiensia Available Through Brill
 date: 2017-11-06
 ---
 

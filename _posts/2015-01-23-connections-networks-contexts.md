@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Connections, Networks & Contexts
+title: |
+   Connections, Networks & Contexts
 date: 2015-01-23
 ---
 
@@ -27,7 +28,7 @@ Archaeology, History, Classics, History of Art, Literature, Language
 Studies, and Islamic Studies among others. Early career scholars and
 postgraduate students are invited to submit abstracts of up to 300 words
 for papers, and 200 words for posters, to
-[lampsedinburgh@gmail.com](mailto:lampsedinburgh@gmail.com){target="_blank"}.
+[lampsedinburgh@gmail.com](mailto:lampsedinburgh@gmail.com).
 To be considered, proposals must be received by **2 March 2015**.
 Confirmations of acceptance will be sent at least one month in advance.
 This conference is being put on with the support of the Society of

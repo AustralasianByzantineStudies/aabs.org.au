@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Call for Papers: Mary Jaharis Center Sponsored Panel, 6th Forum Medieval Art
+title: |
+   Call for Papers: Mary Jaharis Center Sponsored Panel, 6th Forum Medieval Art
 date: 2020-04-17
 ---
 
@@ -69,13 +70,11 @@ The Mary Jaharis Center
 invites session proposals that fit within the Senses theme and are
 relevant to Byzantine studies.  Additional information about the Forum
 Medieval Art is available at
-[https://www.dvfk-berlin.de/](https://protect-au.mimecast.com/s/-Zw3Cr8Dz5s8rojKgc7qS7t?domain=dvfk-berlin.de){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}.
+[https://www.dvfk-berlin.de/](https://protect-au.mimecast.com/s/-Zw3Cr8Dz5s8rojKgc7qS7t?domain=dvfk-berlin.de).
 
 Session
 proposals must be submitted through the Mary Jaharis Center website
-([https://maryjahariscenter.org/sponsored-sessions/6th-fma](https://protect-au.mimecast.com/s/YnDLCvl0E5u7EKgmQCXAmfz?domain=maryjahariscenter.org){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}). The deadline for
+([https://maryjahariscenter.org/sponsored-sessions/6th-fma](https://protect-au.mimecast.com/s/YnDLCvl0E5u7EKgmQCXAmfz?domain=maryjahariscenter.org)). The deadline for
 submission is **May 10, 2020**. Proposals should
 include:
 
@@ -102,6 +101,5 @@ lodging. Receipts are required for reimbursement.
 
 Please
 contact Brandie Ratliff
-([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}), Director, Mary Jaharis
+([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)), Director, Mary Jaharis
 Center for Byzantine Art and Culture with any questions.

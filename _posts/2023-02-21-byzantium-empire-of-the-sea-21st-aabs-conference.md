@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantium: Empire of the Sea - 21st AABS Conference
+title: |
+   Byzantium: Empire of the Sea - 21st AABS Conference
 date: 2023-02-21
 ---
 

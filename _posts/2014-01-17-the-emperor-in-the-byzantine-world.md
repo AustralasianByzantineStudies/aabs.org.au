@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Emperor in the Byzantine World
+title: |
+   The Emperor in the Byzantine World
 date: 2014-01-17
 ---
 

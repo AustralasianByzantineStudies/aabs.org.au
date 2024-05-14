@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mobility and Materiality in Byzantine-Islamic Relations (7th-12th Centuries)
+title: |
+   Mobility and Materiality in Byzantine-Islamic Relations (7th-12th Centuries)
 date: 2021-10-07
 ---
 
@@ -23,8 +24,7 @@ the context of Byzantine-Islamic relations.
 
 Please send an
 email message to
-[byzantinestudies@boun.edu.tr](mailto:byzantinestudies@boun.edu.tr){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable" linkindex="0"} for
+[byzantinestudies@boun.edu.tr](mailto:byzantinestudies@boun.edu.tr) for
 registration.
 
 [Conference

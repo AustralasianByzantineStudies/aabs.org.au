@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Sailing With the Gods: Religion and Maritime Mobility in the Ancient World - Postponed
+title: |
+   Sailing With the Gods: Religion and Maritime Mobility in the Ancient World - Postponed
 date: 2020-03-27
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Call for Sessions: Mary Jaharis Center Sponsored Panel, 49th Annual Byzantine Studies Conference
+title: |
+   Call for Sessions: Mary Jaharis Center Sponsored Panel, 49th Annual Byzantine Studies Conference
 date: 2023-03-10
 ---
 

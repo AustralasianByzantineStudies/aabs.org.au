@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Athens to Aotearoa: Greece and Rome in New Zealand Literature and Society
+title: |
+   Athens to Aotearoa: Greece and Rome in New Zealand Literature and Society
 date: 2014-02-18
 ---
 

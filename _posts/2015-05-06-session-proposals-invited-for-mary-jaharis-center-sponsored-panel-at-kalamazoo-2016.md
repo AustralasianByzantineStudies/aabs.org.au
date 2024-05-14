@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Session Proposals Invited for Mary Jaharis Center Sponsored Panel at Kalamazoo 2016
+title: |
+   Session Proposals Invited for Mary Jaharis Center Sponsored Panel at Kalamazoo 2016
 date: 2015-05-06
 ---
 
 Session proposals must be submitted through the Mary Jaharis Center web
 site
-([http://maryjahariscenter.org/sponsored-sessions/51st-international-congress-on-medieval-studi/](http://maryjahariscenter.org/sponsored-sessions/51st-international-congress-on-medieval-studi/){target="_blank"}).
+([http://maryjahariscenter.org/sponsored-sessions/51st-international-congress-on-medieval-studi/](http://maryjahariscenter.org/sponsored-sessions/51st-international-congress-on-medieval-studi/)).
 The deadline for submission is **May 24, 2015**. Proposals should
 include:
 
@@ -41,11 +42,11 @@ session organizer and the Mary Jaharis Center.
 
 Please contact
 Brandie Ratliff
-([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){target="_blank"}), Director,
+([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)), Director,
 Mary Jaharis Center for Byzantine Art and Culture with any questions.
 Further information about the International Congress on Medieval Studies
 is available at
-[http://wmich.edu/medieval/congress/](http://wmich.edu/medieval/congress/){target="_blank"}.
+[http://wmich.edu/medieval/congress/](http://wmich.edu/medieval/congress/).
 
 **About
 the Mary Jaharis Center for Byzantine Art and

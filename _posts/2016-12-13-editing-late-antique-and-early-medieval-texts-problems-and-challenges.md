@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Editing Late-Antique and Early Medieval Texts: Problems and Challenges
+title: |
+   Editing Late-Antique and Early Medieval Texts: Problems and Challenges
 date: 2016-12-13
 ---
 
@@ -77,4 +78,4 @@ FAX (351)21 792 00 80
 E-mail:
 <centro.classicos@fl.ul.pt> /
 <centro.classicos@letras.ulisboa.pt>
-[https://protect-au.mimecast.com/s/2mpEBkUX350SZ?domain=letras.ulisboa.pt](https://protect-au.mimecast.com/s/2mpEBkUX350SZ?domain=letras.ulisboa.pt){target="_blank"}
+[https://protect-au.mimecast.com/s/2mpEBkUX350SZ?domain=letras.ulisboa.pt](https://protect-au.mimecast.com/s/2mpEBkUX350SZ?domain=letras.ulisboa.pt)

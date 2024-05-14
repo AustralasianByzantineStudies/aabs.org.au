@@ -1,6 +1,7 @@
 ---
 layout: post
-title: International Network for Byzantine Philosophy
+title: |
+   International Network for Byzantine Philosophy
 date: 2018-04-11
 ---
 

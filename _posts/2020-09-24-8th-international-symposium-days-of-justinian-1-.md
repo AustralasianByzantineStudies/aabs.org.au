@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 8th International Symposium "Days of Justinian 1"
+title: |
+   8th International Symposium "Days of Justinian 1"
 date: 2020-09-24
 ---
 

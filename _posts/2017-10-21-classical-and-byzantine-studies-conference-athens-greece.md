@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Classical and Byzantine Studies Conference: Athens, Greece
+title: |
+   Classical and Byzantine Studies Conference: Athens, Greece
 date: 2017-10-21
 ---
 

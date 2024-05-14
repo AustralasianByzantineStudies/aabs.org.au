@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AMPHORAE VIII
+title: |
+   AMPHORAE VIII
 date: 2014-06-30
 ---
 
@@ -28,7 +29,7 @@ Abstract submissions
 of 100-200 words for papers of 20 minutes' duration, as well as a brief
 biography, should be submitted by 9pm AEST on **Tuesday 30 September**
 to
-[amphoraeviii@gmail.com](mailto:amphoraeviii@gmail.com){target="_blank"}.
+[amphoraeviii@gmail.com](mailto:amphoraeviii@gmail.com).
 Offers of poster presentations will also be welcomed, especially from
 Honours students. If you would like to attend the conference, but do not
 wish to present a paper, simply submit a registration form informing us
@@ -36,7 +37,7 @@ of your attendance by the same date. Please note also that the
 Australasian Women in Ancient World Studies (AWAWS) will be hosting a
 special panel this year. If you would like to be considered, or
 contribute to this panel, please contact AWAWS directly at
-[socawaws@gmail.com](mailto:socawaws@gmail.com){target="_blank"}, in
+[socawaws@gmail.com](mailto:socawaws@gmail.com), in
 addition to submitting your abstract and registration form to
 us.
 
@@ -47,7 +48,7 @@ conference. More details are available on our web site.
 
 More
 information and all relevant forms can be found on our web site: 
-[http://amphoraeviii.weebly.com](http://amphoraeviii.weebly.com){target="_blank"}.
+[http://amphoraeviii.weebly.com](http://amphoraeviii.weebly.com).
 If you have any other enquiries, please do not hesitate to direct them
 to <amphoraeviii@gmail.com>.
 

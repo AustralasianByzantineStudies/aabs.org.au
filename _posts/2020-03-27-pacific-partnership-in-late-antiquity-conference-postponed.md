@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Pacific Partnership in Late Antiquity Conference - Postponed
+title: |
+   Pacific Partnership in Late Antiquity Conference - Postponed
 date: 2020-03-27
 ---
 

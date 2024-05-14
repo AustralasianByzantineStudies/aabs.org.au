@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Miracles and Wonders in Antiquity and Byzantium
+title: |
+   Miracles and Wonders in Antiquity and Byzantium
 date: 2014-01-28
 ---
 

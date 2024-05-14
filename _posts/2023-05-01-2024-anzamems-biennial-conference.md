@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 2024 ANZAMEMS Biennial Conference
+title: |
+   2024 ANZAMEMS Biennial Conference
 date: 2023-05-01
 ---
 

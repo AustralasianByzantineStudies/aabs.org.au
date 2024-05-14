@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 2021 Online Byzantine Greek Summer School, Bogazici University Byzantine Studies Research Center
+title: |
+   2021 Online Byzantine Greek Summer School, Bogazici University Byzantine Studies Research Center
 date: 2021-04-29
 ---
 
@@ -18,4 +19,4 @@ Application deadline: May 31, 2021
 For
 more information, please
 visit
-[http://byzantinestudies.boun.edu.tr/index.php?page=events&id=59](http://byzantinestudies.boun.edu.tr/index.php?page=events&id=59){target="_blank"}.
+[http://byzantinestudies.boun.edu.tr/index.php?page=events&id=59](http://byzantinestudies.boun.edu.tr/index.php?page=events&id=59).

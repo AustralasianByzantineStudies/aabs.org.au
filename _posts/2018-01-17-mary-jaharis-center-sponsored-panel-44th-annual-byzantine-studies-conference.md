@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mary Jaharis Center Sponsored Panel, 44th Annual Byzantine Studies Conference
+title: |
+   Mary Jaharis Center Sponsored Panel, 44th Annual Byzantine Studies Conference
 date: 2018-01-17
 ---
 

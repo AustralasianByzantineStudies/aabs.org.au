@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AABS Membership Subscriptions Due
+title: |
+   AABS Membership Subscriptions Due
 date: 2018-06-26
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ANZAMEMS 2021: Call for Papers
+title: |
+   ANZAMEMS 2021: Call for Papers
 date: 2020-02-04
 ---
 

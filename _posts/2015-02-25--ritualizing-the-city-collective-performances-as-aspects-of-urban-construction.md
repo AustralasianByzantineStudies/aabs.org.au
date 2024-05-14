@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  Ritualizing the City: Collective Performances as Aspects of Urban Construction
+title: |
+    Ritualizing the City: Collective Performances as Aspects of Urban Construction
 date: 2015-02-25
 ---
 
@@ -42,4 +43,4 @@ welcomed.
 Paper proposals of no more than one page,
 accompanied by a short CV, can be submitted until **10 September** 2015
 to:
-[ivan.foletti@gmail.com](mailto:ivan.foletti@gmail.com){target="_blank"}.
+[ivan.foletti@gmail.com](mailto:ivan.foletti@gmail.com).

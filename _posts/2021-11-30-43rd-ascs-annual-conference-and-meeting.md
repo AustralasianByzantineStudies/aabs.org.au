@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 43rd Ascs Annual Conference and Meeting
+title: |
+   43rd Ascs Annual Conference and Meeting
 date: 2021-11-30
 ---
 
@@ -70,8 +71,7 @@ Funding is available to
 support students travelling to Hobart in 2022. Anyone wishing to apply
 for funding should complete the form below and return it to the ASCS
 Honorary Secretary (Dr Daniel Osland) via
-[secretary@ascs.org.au](mailto:secretary@ascs.org.au){target="_blank"
-rel="noreferrer noopener"} : *deadline 15 January
+[secretary@ascs.org.au](mailto:secretary@ascs.org.au) : *deadline 15 January
 2022*.
 
 [ASCS Conference Travel Subsidy

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: M.A./Ph.D. Scholarships and Travel Grants in Byzantine Studies
+title: |
+   M.A./Ph.D. Scholarships and Travel Grants in Byzantine Studies
 date: 2020-03-31
 ---
 
@@ -10,8 +11,7 @@ University Byzantine Studies Research Center.
 
 For more
 information please visit
-[http://byzantinestudies.boun.edu.tr/index.php?page=events&id=52](https://protect-au.mimecast.com/s/u68zCWLJMvF5jOQ1Nu6FjHi?domain=byzantinestudies.boun.edu.tr){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"} 
+[http://byzantinestudies.boun.edu.tr/index.php?page=events&id=52](https://protect-au.mimecast.com/s/u68zCWLJMvF5jOQ1Nu6FjHi?domain=byzantinestudies.boun.edu.tr) 
 
 [![Byzantine
 Studies Center - Bogazici

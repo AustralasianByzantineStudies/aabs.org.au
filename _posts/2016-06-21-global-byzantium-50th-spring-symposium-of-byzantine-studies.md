@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Global Byzantium: 50th Spring Symposium of Byzantine Studies
+title: |
+   Global Byzantium: 50th Spring Symposium of Byzantine Studies
 date: 2016-06-21
 ---
 
@@ -40,7 +41,7 @@ The call for communications is now open. If you
 would like to offer a 10-minute communication on the theme of the
 symposium, please send an abstract of no more than 250 words to Daniel
 Reynolds
-[atd.k.reynolds@bham.ac.uk](mailto:atd.k.reynolds@bham.ac.uk){target="_blank"}
+[atd.k.reynolds@bham.ac.uk](mailto:atd.k.reynolds@bham.ac.uk)
 by **1 September, 2016**.
 
 Successful submissions will be

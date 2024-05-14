@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantine Culture in Translation: Programme and Abstracts Now Available
+title: |
+   Byzantine Culture in Translation: Programme and Abstracts Now Available
 date: 2014-09-25
 ---
 

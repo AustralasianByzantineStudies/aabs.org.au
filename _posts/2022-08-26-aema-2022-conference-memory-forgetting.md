@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AEMA 2022 Conference: Memory & Forgetting
+title: |
+   AEMA 2022 Conference: Memory & Forgetting
 date: 2022-08-26
 ---
 

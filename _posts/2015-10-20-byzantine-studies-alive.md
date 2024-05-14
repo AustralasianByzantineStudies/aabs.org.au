@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantine Studies Alive
+title: |
+   Byzantine Studies Alive
 date: 2015-10-20
 ---
 
@@ -73,5 +74,5 @@ under threat
 
 Abstracts, no more than 400 words, can be
 submitted
-to [d.slootjes@let.ru.nl](mailto:d.slootjes@let.ru.nl){target="_blank"}  and [m.verhoeven@let.ru.nl](mailto:m.verhoeven@let.ru.nl){target="_blank"}  before
+to [d.slootjes@let.ru.nl](mailto:d.slootjes@let.ru.nl)  and [m.verhoeven@let.ru.nl](mailto:m.verhoeven@let.ru.nl)  before
 **1 December 2015**.

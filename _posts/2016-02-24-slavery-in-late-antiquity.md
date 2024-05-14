@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Slavery in Late Antiquity
+title: |
+   Slavery in Late Antiquity
 date: 2016-02-24
 ---
 

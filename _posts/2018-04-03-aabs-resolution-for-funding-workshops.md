@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AABS Resolution for Funding Workshops
+title: |
+   AABS Resolution for Funding Workshops
 date: 2018-04-03
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantine Culture in Translation - Just Published
+title: |
+   Byzantine Culture in Translation - Just Published
 date: 2017-08-12
 ---
 

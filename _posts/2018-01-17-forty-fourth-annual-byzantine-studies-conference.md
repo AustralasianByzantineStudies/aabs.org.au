@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Forty-fourth Annual Byzantine Studies Conference
+title: |
+   Forty-fourth Annual Byzantine Studies Conference
 date: 2018-01-17
 ---
 

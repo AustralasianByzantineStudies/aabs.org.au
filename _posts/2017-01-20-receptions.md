@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Receptions
+title: |
+   Receptions
 date: 2017-01-20
 ---
 
@@ -9,7 +10,7 @@ National University, Canberra, **21-22 April
 2017**
 
 [Conference
-Website](http://www.aema.net.au/conference.html){target="_blank"}
+Website](http://www.aema.net.au/conference.html)
 
 In
 1979 Hans-Robert Jauss published *The Alterity and Modernity of Medieval
@@ -31,5 +32,5 @@ strictly adhere to the theme.
 
 Abstracts of 250-300 words for
 20-minute papers should be submitted via email to
-[conference@aema.net.au](mailto:conference@aema.net.au){target="_blank"}
+[conference@aema.net.au](mailto:conference@aema.net.au)
 by **20 February, 2017**.

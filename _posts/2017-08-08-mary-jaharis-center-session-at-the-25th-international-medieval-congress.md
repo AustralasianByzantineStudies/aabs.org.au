@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mary Jaharis Center Session at the 25th International Medieval Congress
+title: |
+   Mary Jaharis Center Session at the 25th International Medieval Congress
 date: 2017-08-08
 ---
 
@@ -16,14 +17,12 @@ studies.
 
 The thematic strand for the 2018 IMC is "Memory."
 See the IMC Call for Papers
-([https://www.leeds.ac.uk/ims/imc/imc2018_call.html](https://protect-au.mimecast.com/s/6eKvBwHxaMVmUG?domain=leeds.ac.uk){target="_blank"
-rel="noopener noreferrer"}) for additional information about the theme
+([https://www.leeds.ac.uk/ims/imc/imc2018_call.html](https://protect-au.mimecast.com/s/6eKvBwHxaMVmUG?domain=leeds.ac.uk)) for additional information about the theme
 and suggested areas of discussion.
 
 Session proposals should
 be submitted through the Mary Jaharis Center website
-([https://maryjahariscenter.org/sponsored-sessions/25th-imc](https://protect-au.mimecast.com/s/NX1kBGS8Xx4RTn?domain=maryjahariscenter.org){target="_blank"
-rel="noopener noreferrer"}). The deadline for submission is **September
+([https://maryjahariscenter.org/sponsored-sessions/25th-imc](https://protect-au.mimecast.com/s/NX1kBGS8Xx4RTn?domain=maryjahariscenter.org)). The deadline for submission is **September
 1, 2017.** Proposals should include:
 **Title
 **100-word
@@ -56,9 +55,7 @@ organizer may act as the moderator or present a paper. Participants may
 only present papers in one session.
 
 Please contact Brandie
-Ratliff ([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){target="_blank"
-rel="noopener noreferrer"}[mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){target="_blank"
-rel="noopener noreferrer"}), Director, Mary Jaharis Center for Byzantine
+Ratliff ([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)[mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)), Director, Mary Jaharis Center for Byzantine
 Art and Culture with any questions.
 
 

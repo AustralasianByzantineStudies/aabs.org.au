@@ -1,6 +1,7 @@
 ---
 layout: post
-title: A. W. Mellon Post-Doctoral Fellowships in Byzantine Studies
+title: |
+   A. W. Mellon Post-Doctoral Fellowships in Byzantine Studies
 date: 2018-03-09
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Leeds International Medieval Conference
+title: |
+   Leeds International Medieval Conference
 date: 2021-07-12
 ---
 

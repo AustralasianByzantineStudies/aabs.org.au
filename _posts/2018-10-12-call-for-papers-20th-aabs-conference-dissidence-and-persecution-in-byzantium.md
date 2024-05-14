@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Call for Papers: 20th AABS Conference - Dissidence and Persecution in Byzantium
+title: |
+   Call for Papers: 20th AABS Conference - Dissidence and Persecution in Byzantium
 date: 2018-10-12
 ---
 

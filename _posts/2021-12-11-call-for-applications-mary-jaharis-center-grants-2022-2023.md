@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Call for Applications: Mary Jaharis Center Grants 2022–2023
+title: |
+   Call for Applications: Mary Jaharis Center Grants 2022–2023
 date: 2021-12-11
 ---
 
@@ -54,6 +55,5 @@ rel="noopener noreferrer" auth="NotApplicable"
 linkindex="0"}.
 
 Contact Brandie Ratliff
-([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable" linkindex="1"}),
+([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)),
 Director, Mary Jaharis Center, with any questions.

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Ancient Life-writing
+title: |
+   Ancient Life-writing
 date: 2016-01-08
 ---
 
@@ -19,7 +20,7 @@ oratory to gospels.
 
 Please submit titles and abstracts of
 approximately 300 words to Philip Bosman at
-[bosmapr@unisa.ac.za](mailto:bosmapr@unisa.ac.za){target="_blank"}, as
+[bosmapr@unisa.ac.za](mailto:bosmapr@unisa.ac.za), as
 soon as possible. All proposals are carefully considered, but bear in
 mind that slots are limited.
 
@@ -34,7 +35,7 @@ scholarly contributions from around the world are to be presented. The
 Parallel sessions are avoided in order to promote unity of focus in the
 conference, and delegates get to know each other properly. Information
 on previous conferences may be found at
-[http://www.unisa.ac.za/default.asp?Cmd=ViewContent&ContentID=1819](http://www.unisa.ac.za/default.asp?Cmd=ViewContent&ContentID=1819){target="_blank"}
+[http://www.unisa.ac.za/default.asp?Cmd=ViewContent&ContentID=1819](http://www.unisa.ac.za/default.asp?Cmd=ViewContent&ContentID=1819)
 
 Venue:
 Pretoria, South Africa.

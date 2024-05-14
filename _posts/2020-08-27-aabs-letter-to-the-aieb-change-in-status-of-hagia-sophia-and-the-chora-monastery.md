@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AABS Letter to the AIEB - Change in Status of Hagia Sophia and the Chora Monastery
+title: |
+   AABS Letter to the AIEB - Change in Status of Hagia Sophia and the Chora Monastery
 date: 2020-08-27
 ---
 

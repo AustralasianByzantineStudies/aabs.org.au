@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantium: A World of Changes - 23rd International Congress of Byzantine Studies
+title: |
+   Byzantium: A World of Changes - 23rd International Congress of Byzantine Studies
 date: 2015-01-28
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Shared Invention: From Antiquity to the 21st Century
+title: |
+   Shared Invention: From Antiquity to the 21st Century
 date: 2015-06-08
 ---
 

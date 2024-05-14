@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantina Australiensia – Brill Publishing – Call for Manuscripts
+title: |
+   Byzantina Australiensia – Brill Publishing – Call for Manuscripts
 date: 2023-05-26
 ---
 

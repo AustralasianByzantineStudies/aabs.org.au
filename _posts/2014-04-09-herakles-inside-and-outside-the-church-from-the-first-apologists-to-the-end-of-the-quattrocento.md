@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Herakles Inside and Outside the Church: From the First Apologists to the End of the Quattrocento
+title: |
+   Herakles Inside and Outside the Church: From the First Apologists to the End of the Quattrocento
 date: 2014-04-09
 ---
 

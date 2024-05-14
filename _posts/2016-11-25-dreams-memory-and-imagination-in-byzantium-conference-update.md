@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Dreams, Memory and Imagination in Byzantium: Conference Update
+title: |
+   Dreams, Memory and Imagination in Byzantium: Conference Update
 date: 2016-11-25
 ---
 

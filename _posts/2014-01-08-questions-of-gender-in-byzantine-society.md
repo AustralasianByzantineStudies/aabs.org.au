@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Questions of Gender in Byzantine Society
+title: |
+   Questions of Gender in Byzantine Society
 date: 2014-01-08
 ---
 

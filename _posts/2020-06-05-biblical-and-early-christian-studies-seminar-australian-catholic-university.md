@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Biblical and Early Christian Studies Seminar - Australian Catholic University
+title: |
+   Biblical and Early Christian Studies Seminar - Australian Catholic University
 date: 2020-06-05
 ---
 
@@ -21,8 +22,7 @@ which naturally vary depending upon your time zone:
     9-10am [Thursday]{style="text-decoration: underline;"} 11^th^ June,
     2020.
 -   New York time: 7-8pm
-    [Wednesday]{style="text-decoration: underline;"} 10^th^ June, 2020.
--   London time: 12-1am [Thursday]{style="text-decoration: underline;"}
+    [Wednesday]{style="text-decoration: underline;"} 10^th^ June, 2020.-   London time: 12-1am [Thursday]{style="text-decoration: underline;"}
     11^th^ June, 2020**.**
 
 

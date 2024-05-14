@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Eastern Christianity and Late Antique Philosophy
+title: |
+   Eastern Christianity and Late Antique Philosophy
 date: 2017-02-10
 ---
 

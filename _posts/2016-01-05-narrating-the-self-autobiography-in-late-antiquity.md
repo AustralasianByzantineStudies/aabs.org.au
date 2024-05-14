@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Narrating the Self: Autobiography in Late Antiquity
+title: |
+   Narrating the Self: Autobiography in Late Antiquity
 date: 2016-01-05
 ---
 
@@ -42,7 +43,7 @@ twenty minutes to deliver should be sent no later than **February 15,
 2016** by email attachment as .doc or .rtf files to Eric Hutchinson at
 ehutchinson@hillsdale.edu. Please follow the SCS's instructions for the
 format of individual abstracts:
-[https://classicalstudies.org/annual-meeting/guidelines-authors-abstracts](https://classicalstudies.org/annual-meeting/guidelines-authors-abstracts){target="_blank"}.
+[https://classicalstudies.org/annual-meeting/guidelines-authors-abstracts](https://classicalstudies.org/annual-meeting/guidelines-authors-abstracts).
 All submissions will be judged anonymously by two referees. Prospective
 panelists must be members in good standing of the SCS at the time of
 submission and must include their SCS membership number in the cover

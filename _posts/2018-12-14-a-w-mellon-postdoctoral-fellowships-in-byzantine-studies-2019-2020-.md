@@ -1,6 +1,7 @@
 ---
 layout: post
-title: A. W. Mellon Postdoctoral Fellowships in Byzantine Studies (2019-2020)
+title: |
+   A. W. Mellon Postdoctoral Fellowships in Byzantine Studies (2019-2020)
 date: 2018-12-14
 ---
 

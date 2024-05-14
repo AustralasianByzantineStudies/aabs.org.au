@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantina Australiensia: New Publisher and Distributor
+title: |
+   Byzantina Australiensia: New Publisher and Distributor
 date: 2016-11-22
 ---
 

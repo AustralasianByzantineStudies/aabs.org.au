@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Petition for the Byzantine Collection at the Museum of Art and History, Geneva
+title: |
+   Petition for the Byzantine Collection at the Museum of Art and History, Geneva
 date: 2017-02-09
 ---
 

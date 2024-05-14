@@ -1,6 +1,7 @@
 ---
 layout: post
-title: From the Human Body to the Universe: Spatialities of Byzantine Culture
+title: |
+   From the Human Body to the Universe: Spatialities of Byzantine Culture
 date: 2016-06-02
 ---
 

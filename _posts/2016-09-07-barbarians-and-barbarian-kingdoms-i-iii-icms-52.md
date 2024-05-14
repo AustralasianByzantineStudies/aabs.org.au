@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Barbarians and Barbarian Kingdoms I-III: ICMS 52
+title: |
+   Barbarians and Barbarian Kingdoms I-III: ICMS 52
 date: 2016-09-07
 ---
 
@@ -21,7 +22,7 @@ all have in common is barbarians and/or barbarian kingdoms, c.
 
 Please direct inquiries or abstracts with a
 completed Participant Information Form (here:
-[http://www.wmich.edu/medievalcongress/submissions](https://owa.unimelb.edu.au/owa/redir.aspx?C=CJNPw4ixgHEv2EE-ylumOM5LJPa79m6lHKwk2rAu3LEJfrmz2tbTCA..&URL=http%3a%2f%2fwww.wmich.edu%2fmedievalcongress%2fsubmissions){target="_blank"})
+[http://www.wmich.edu/medievalcongress/submissions](https://owa.unimelb.edu.au/owa/redir.aspx?C=CJNPw4ixgHEv2EE-ylumOM5LJPa79m6lHKwk2rAu3LEJfrmz2tbTCA..&URL=http%3a%2f%2fwww.wmich.edu%2fmedievalcongress%2fsubmissions))
 to Jonathan Arnold
-([jon-arnold@utulsa.edu](https://owa.unimelb.edu.au/owa/redir.aspx?C=Tei7pKx31K3bkQQ0BeFNmytjswXL6tAsGGxEgsVt7ooJfrmz2tbTCA..&URL=mailto%3ajon-arnold%40utulsa.edu){target="_blank"})
+([jon-arnold@utulsa.edu](https://owa.unimelb.edu.au/owa/redir.aspx?C=Tei7pKx31K3bkQQ0BeFNmytjswXL6tAsGGxEgsVt7ooJfrmz2tbTCA..&URL=mailto%3ajon-arnold%40utulsa.edu))
 by **September 15**.

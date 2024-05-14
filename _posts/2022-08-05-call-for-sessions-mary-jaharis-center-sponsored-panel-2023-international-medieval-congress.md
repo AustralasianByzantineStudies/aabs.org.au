@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Call for Sessions: Mary Jaharis Center Sponsored Panel, 2023 International Medieval Congress
+title: |
+   Call for Sessions: Mary Jaharis Center Sponsored Panel, 2023 International Medieval Congress
 date: 2022-08-05
 ---
 
@@ -14,13 +15,13 @@ any topic relevant to Byzantine studies.
 The thematic strand
 for the 2023 IMC is "Networks and Entanglements." See the IMC Call for
 Papers
-([https://www.imc.leeds.ac.uk/imc-2023/](https://www.imc.leeds.ac.uk/imc-2023/){target="_blank"})
+([https://www.imc.leeds.ac.uk/imc-2023/](https://www.imc.leeds.ac.uk/imc-2023/))
 for additional information about the theme and suggested areas of
 discussion.
 
 Session proposals must be submitted through the
 Mary Jaharis Center web site
-([https://maryjahariscenter.org/sponsored-sessions/imc-2023](https://maryjahariscenter.org/sponsored-sessions/imc-2023){target="_blank"}).
+([https://maryjahariscenter.org/sponsored-sessions/imc-2023](https://maryjahariscenter.org/sponsored-sessions/imc-2023)).
 **The deadline for submission is September 6, 2022.** Proposals should
 include title, 100-word session abstract, session moderator and academic
 affiliation, information about the three papers to be presented in the
@@ -47,5 +48,5 @@ Center will reimburse participants for conference
 registration.
 
 Please contact Brandie Ratliff
-([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){target="_blank"}), Director,
+([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)), Director,
 Mary Jaharis Center for Byzantine Art and Culture with any questions.

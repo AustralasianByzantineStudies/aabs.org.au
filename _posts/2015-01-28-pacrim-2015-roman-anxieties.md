@@ -1,13 +1,14 @@
 ---
 layout: post
-title: PACRIM 2015: Roman Anxieties
+title: |
+   PACRIM 2015: Roman Anxieties
 date: 2015-01-28
 ---
 
 The theme for the 2015 Pacific Rim Seminar for Roman Literature is Roman
 Anxieties. If you wish to offer a paper, please submit a 300-word
 abstract
-to [mj.wilson@auckland.ac.nz](mailto:mj.wilson@auckland.ac.nz){target="_blank"}.
+to [mj.wilson@auckland.ac.nz](mailto:mj.wilson@auckland.ac.nz).
 
 Roman
 literature manifests and thematises anxiety in a variety of ways; the
@@ -50,7 +51,7 @@ for postgraduate and unwaged attendees.
 **Venue:** The University
 of Auckland
 **Coordinators:**  Marcus Wilson
-([mj.wilson@auckland.ac.nz](mailto:mj.wilson@auckland.ac.nz){target="_blank"})
+([mj.wilson@auckland.ac.nz](mailto:mj.wilson@auckland.ac.nz))
 Christina
 Robertson
-([cjr.robertson@gmail.com](mailto:cjr.robertson@gmail.com){target="_blank"})
+([cjr.robertson@gmail.com](mailto:cjr.robertson@gmail.com))

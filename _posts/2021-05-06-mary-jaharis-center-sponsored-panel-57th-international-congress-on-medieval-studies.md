@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mary Jaharis Center Sponsored Panel, 57th International Congress on Medieval Studies
+title: |
+   Mary Jaharis Center Sponsored Panel, 57th International Congress on Medieval Studies
 date: 2021-05-06
 ---
 
@@ -27,8 +28,7 @@ will be virtual.
 
 Session proposals must be submitted through
 the Mary Jaharis Center web site
-([https://maryjahariscenter.org/sponsored-sessions/57th-international-congress-on-medieval-studies](https://protect-au.mimecast.com/s/8dCuCROAEnsvm246KH9wNTy?domain=maryjahariscenter.org){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable" linkindex="0"}). The
+([https://maryjahariscenter.org/sponsored-sessions/57th-international-congress-on-medieval-studies](https://protect-au.mimecast.com/s/8dCuCROAEnsvm246KH9wNTy?domain=maryjahariscenter.org)). The
 deadline for submission is **May 18, 2021**. Proposals should
 include:
 
@@ -56,16 +56,14 @@ provided. Receipts are required for reimbursement.
 
 Please
 contact Brandie Ratliff
-([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable" linkindex="1"}),
+([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)),
 Director, Mary Jaharis Center for Byzantine Art and Culture with any
 questions.
 
 
 Further information about the International Congress on Medieval Studies
 is available at
-[https://wmich.edu/medievalcongress](https://protect-au.mimecast.com/s/Ed9gCVAGLrsxwGqJ4TzhIts?domain=wmich.edu){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable" linkindex="2"}.
+[https://wmich.edu/medievalcongress](https://protect-au.mimecast.com/s/Ed9gCVAGLrsxwGqJ4TzhIts?domain=wmich.edu).
 
 
 

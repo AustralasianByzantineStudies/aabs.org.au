@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Shifting Frontiers XIV: Scale and the Study of Late Antiquity
+title: |
+   Shifting Frontiers XIV: Scale and the Study of Late Antiquity
 date: 2020-10-13
 ---
 
@@ -69,10 +70,10 @@ an alternative mode of presentation.
 
 To apply to present at
 Shifting Frontiers XIV, please fill out the [application/abstract
-form ](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fu.osu.edu%2Fshiftingfrontiersxiv%2Ffiles%2F2020%2F10%2FShifting-Frontiers-Application-Abstract-Form.pdf&data=04%7C01%7C%7C8794ade287d14cd7a4f808d86ec3b599%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637381134124142109%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=WDYGo6Ep%2FQGIawiTXuJdDGMaxJOUL46zXl%2FVD3dI6JU%3D&reserved=0){target="_blank"}.
+form ](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fu.osu.edu%2Fshiftingfrontiersxiv%2Ffiles%2F2020%2F10%2FShifting-Frontiers-Application-Abstract-Form.pdf&data=04%7C01%7C%7C8794ade287d14cd7a4f808d86ec3b599%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637381134124142109%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=WDYGo6Ep%2FQGIawiTXuJdDGMaxJOUL46zXl%2FVD3dI6JU%3D&reserved=0).
 Please provide all the requested information, but do not include your
 name anywhere on the form.  All completed application/abstract forms
 should be emailed
-to [shiftingfrontiersxiv@gmail.com](mailto:shiftingfrontiersxiv@gmail.com){target="_blank"}.
+to [shiftingfrontiersxiv@gmail.com](mailto:shiftingfrontiersxiv@gmail.com).
 Applications must be received by **4** **December 2020** in order to be
 considered for participation at the conference.

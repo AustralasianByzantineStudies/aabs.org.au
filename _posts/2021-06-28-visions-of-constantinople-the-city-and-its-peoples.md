@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Visions of Constantinople: The City and its Peoples
+title: |
+   Visions of Constantinople: The City and its Peoples
 date: 2021-06-28
 ---
 
@@ -36,5 +37,4 @@ Association.]{style="font-family: arial, sans-serif;"}
 [Proposals
 of 300 words plus a short author biography (100 words) are due 1st
 September. See the
-[CFP](https://www.balkan-history.com/cfp-visions-of-constantinople-the-city-and-its-peoples/){target="_blank"}
-for more information.]{style="font-family: arial, sans-serif;"}
+[CFP](https://www.balkan-history.com/cfp-visions-of-constantinople-the-city-and-its-peoples/)for more information.]{style="font-family: arial, sans-serif;"}

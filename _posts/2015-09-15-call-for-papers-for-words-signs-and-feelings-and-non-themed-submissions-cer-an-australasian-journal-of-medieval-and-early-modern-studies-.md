@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Call for Papers for “Words, Signs and Feelings” and Non-Themed Submissions - 'Ceræ: An Australasian Journal of Medieval and Early Modern Studies'
+title: |
+   Call for Papers for “Words, Signs and Feelings” and Non-Themed Submissions - 'Ceræ: An Australasian Journal of Medieval and Early Modern Studies'
 date: 2015-09-15
 ---
 

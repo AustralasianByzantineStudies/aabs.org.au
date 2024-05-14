@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Australian Catholic University - MEMS opportunities for early-mid-career scholars
+title: |
+   Australian Catholic University - MEMS opportunities for early-mid-career scholars
 date: 2019-03-17
 ---
 
@@ -20,8 +21,7 @@ target="_blank" rel="noopener noreferrer"
 auth="NotApplicable"}
 
 See also:
-[https://www.acu.edu.au/research/our-research-institutes/institute-for-religion-and-critical-inquiry/our-programs/medieval-and-early-modern-studies](https://protect-au.mimecast.com/s/evkPCk8vpKsBo1JYFVwiBw?domain=acu.edu.au){#LPlnk514673
-target="_blank" rel="noopener noreferrer" auth="NotApplicable"}
+[https://www.acu.edu.au/research/our-research-institutes/institute-for-religion-and-critical-inquiry/our-programs/medieval-and-early-modern-studies](https://protect-au.mimecast.com/s/evkPCk8vpKsBo1JYFVwiBw?domain=acu.edu.au)
 
 
 <div>

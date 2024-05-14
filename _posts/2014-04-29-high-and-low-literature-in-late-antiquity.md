@@ -1,6 +1,7 @@
 ---
 layout: post
-title: High and Low Literature in Late Antiquity
+title: |
+   High and Low Literature in Late Antiquity
 date: 2014-04-29
 ---
 

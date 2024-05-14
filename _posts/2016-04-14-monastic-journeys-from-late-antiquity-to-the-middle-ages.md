@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Monastic Journeys from Late Antiquity to the Middle Ages
+title: |
+   Monastic Journeys from Late Antiquity to the Middle Ages
 date: 2016-04-14
 ---
 

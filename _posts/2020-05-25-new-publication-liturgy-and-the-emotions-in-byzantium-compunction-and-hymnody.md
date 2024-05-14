@@ -1,6 +1,7 @@
 ---
 layout: post
-title: New Publication - Liturgy and the Emotions in Byzantium: Compunction and Hymnody
+title: |
+   New Publication - Liturgy and the Emotions in Byzantium: Compunction and Hymnody
 date: 2020-05-25
 ---
 
@@ -12,8 +13,7 @@ Theological College, NSW
 Cambridge University Press, June
 2020
 
-[![mellascover](http://www.aabs.org.au//wp-content/uploads/wp-content/uploads/2020/05/mellascover-197x300.png){width="197"
-height="300"}](http://www.aabs.org.au//wp-content/uploads/wp-content/uploads/2020/05/mellascover.png)
+[![mellascover](http://www.aabs.org.au//wp-content/uploads/wp-content/uploads/2020/05/mellascover-197x300.png)](http://www.aabs.org.au//wp-content/uploads/wp-content/uploads/2020/05/mellascover.png)
 
 This
 book explores the liturgical experience of emotions in Byzantium through

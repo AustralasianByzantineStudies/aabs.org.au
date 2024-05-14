@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AABS 18th Biennial Conference 2014
+title: |
+   AABS 18th Biennial Conference 2014
 date: 2014-01-08
 ---
 

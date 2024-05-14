@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mary Jaharis Center Sponsored Panel, 2022 International Medieval Congress
+title: |
+   Mary Jaharis Center Sponsored Panel, 2022 International Medieval Congress
 date: 2021-07-27
 ---
 
@@ -13,15 +14,13 @@ any topic relevant to Byzantine studies.
 
 The thematic strand
 for the 2022 IMC is "Borders." See the IMC Call for Papers
-([https://www.imc.leeds.ac.uk/imc-2022/](https://protect-au.mimecast.com/s/q3cmC91ZVBSkDVZWLIoVNWe?domain=imc.leeds.ac.uk){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable" linkindex="0"}) for
+([https://www.imc.leeds.ac.uk/imc-2022/](https://protect-au.mimecast.com/s/q3cmC91ZVBSkDVZWLIoVNWe?domain=imc.leeds.ac.uk)) for
 additional information about the theme and suggested areas of
 discussion.
 
 Session proposals must be submitted through the
 Mary Jaharis Center website
-([https://maryjahariscenter.org/sponsored-sessions/imc-2022](https://protect-au.mimecast.com/s/7kgDC0YZJpCGp0EXqsD4VYs?domain=maryjahariscenter.org){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable" linkindex="1"}). The
+([https://maryjahariscenter.org/sponsored-sessions/imc-2022](https://protect-au.mimecast.com/s/7kgDC0YZJpCGp0EXqsD4VYs?domain=maryjahariscenter.org)). The
 deadline for submission is **3** **September 2021**. Proposals should
 include:
 
@@ -60,7 +59,6 @@ participation, the Mary Jaharis Center will reimburse participants for
 conference registration.
 
 Please contact Brandie Ratliff
-([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable" linkindex="2"}),
+([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)),
 Director, Mary Jaharis Center for Byzantine Art and Culture with any
 questions.

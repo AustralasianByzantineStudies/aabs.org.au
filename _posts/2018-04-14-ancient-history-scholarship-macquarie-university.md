@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Ancient History Scholarship - Macquarie University
+title: |
+   Ancient History Scholarship - Macquarie University
 date: 2018-04-14
 ---
 
@@ -13,7 +14,7 @@ candidates must quote the allocation #2018489.
 
 Contact: Eva
 Anagnostou-Laoutides -
-[Eva.Anagnostou-Laoutides@mq.edu.au](mailto:Eva.Anagnostou-Laoutides@mq.edu.au "Eva.Anagnostou-Laoutides@mq.edu.au"){target="_blank"}
+[Eva.Anagnostou-Laoutides@mq.edu.au](mailto:Eva.Anagnostou-Laoutides@mq.edu.au "Eva.Anagnostou-Laoutides@mq.edu.au")
 
 
 ## The History of Inebriation and Reason from Plato to the Latin Middle Ages

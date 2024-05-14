@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantium – Bridge Between Worlds
+title: |
+   Byzantium – Bridge Between Worlds
 date: 2019-04-16
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: PhD Colloquium on Late Antiquity
+title: |
+   PhD Colloquium on Late Antiquity
 date: 2017-11-03
 ---
 

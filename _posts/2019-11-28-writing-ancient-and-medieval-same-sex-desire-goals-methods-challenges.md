@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Writing Ancient and Medieval Same-Sex Desire: Goals, Methods, Challenges
+title: |
+   Writing Ancient and Medieval Same-Sex Desire: Goals, Methods, Challenges
 date: 2019-11-28
 ---
 
-### This call for papers is for a conference to take place **June 30-July 2, 2020**  at Victoria University of Wellington, New Zealand, on the topic of writing about same-sex desire in ancient and medieval societies. See [https://cms.victoria.ac.nz/slc/about/events/writing-ancient-and-medieval-same-sex-desire-goals,-methods,-challenges](https://protect-au.mimecast.com/s/JEeaCoVzwKhOG5x7U1CxZw?domain=cms.victoria.ac.nz){target="_blank" rel="noopener noreferrer"} for more.
+### This call for papers is for a conference to take place **June 30-July 2, 2020**  at Victoria University of Wellington, New Zealand, on the topic of writing about same-sex desire in ancient and medieval societies. See [https://cms.victoria.ac.nz/slc/about/events/writing-ancient-and-medieval-same-sex-desire-goals,-methods,-challenges](https://protect-au.mimecast.com/s/JEeaCoVzwKhOG5x7U1CxZw?domain=cms.victoria.ac.nz) for more.
 
 
 Derek Krueger (UNC Greensboro), Mark Masterson (Victoria

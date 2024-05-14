@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Call for Participants: Studying East of Byzantium IX: Networks MJCBAC
+title: |
+   Call for Participants: Studying East of Byzantium IX: Networks MJCBAC
 date: 2022-08-20
 ---
 
@@ -28,7 +29,7 @@ apply.
 
 Participation is limited to 10 students. The full
 workshop description is available on the East of Byzantium website
-([https://eastofbyzantium.org/upcoming-events/](https://eastofbyzantium.org/upcoming-events/){target="_blank"}).
+([https://eastofbyzantium.org/upcoming-events/](https://eastofbyzantium.org/upcoming-events/)).
 Those interested in attending should submit a C.V. and 200-word abstract
 through the East of Byzantium website no later than September 19,
 2022.

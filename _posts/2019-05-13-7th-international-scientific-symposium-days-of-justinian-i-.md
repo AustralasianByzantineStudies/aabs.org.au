@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 7th International Scientific Symposium “Days of Justinian I"
+title: |
+   7th International Scientific Symposium “Days of Justinian I"
 date: 2019-05-13
 ---
 

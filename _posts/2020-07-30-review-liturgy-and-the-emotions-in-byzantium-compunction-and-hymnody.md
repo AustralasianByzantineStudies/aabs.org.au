@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Review - Liturgy and the Emotions in Byzantium: Compunction and Hymnody
+title: |
+   Review - Liturgy and the Emotions in Byzantium: Compunction and Hymnody
 date: 2020-07-30
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Power and Legitimacy in Rome and Byzantium: An Interdisciplinary Workshop
+title: |
+   Power and Legitimacy in Rome and Byzantium: An Interdisciplinary Workshop
 date: 2019-06-20
 ---
 

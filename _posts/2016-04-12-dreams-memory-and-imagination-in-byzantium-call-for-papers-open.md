@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Dreams, Memory and Imagination in Byzantium: Call for Papers Open
+title: |
+   Dreams, Memory and Imagination in Byzantium: Call for Papers Open
 date: 2016-04-12
 ---
 

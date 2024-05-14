@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AABS Biennial General Meeting 2014
+title: |
+   AABS Biennial General Meeting 2014
 date: 2014-10-30
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantium, Its Neighbours and Its Cultures
+title: |
+   Byzantium, Its Neighbours and Its Cultures
 date: 2014-12-04
 ---
 

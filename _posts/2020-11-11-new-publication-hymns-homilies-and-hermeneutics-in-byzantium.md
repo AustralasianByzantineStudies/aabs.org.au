@@ -1,6 +1,7 @@
 ---
 layout: post
-title: New Publication: Hymns, Homilies and Hermeneutics in Byzantium
+title: |
+   New Publication: Hymns, Homilies and Hermeneutics in Byzantium
 date: 2020-11-11
 ---
 

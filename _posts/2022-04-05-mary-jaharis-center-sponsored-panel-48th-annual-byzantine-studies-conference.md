@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mary Jaharis Center Sponsored Panel, 48th Annual Byzantine Studies Conference
+title: |
+   Mary Jaharis Center Sponsored Panel, 48th Annual Byzantine Studies Conference
 date: 2022-04-05
 ---
 
@@ -14,8 +15,7 @@ studies.
 
 Session proposals must be submitted through the Mary Jaharis
 Center web site
-([https://maryjahariscenter.org/sponsored-sessions/48th-bsc](https://protect-au.mimecast.com/s/cm8cCoVzwKhrGLKMyC1Vcms?domain=maryjahariscenter.org){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable" linkindex="0"}). The
+([https://maryjahariscenter.org/sponsored-sessions/48th-bsc](https://protect-au.mimecast.com/s/cm8cCoVzwKhrGLKMyC1Vcms?domain=maryjahariscenter.org)). The
 deadline for submission is **22 April 2022**.
 
 If the proposed
@@ -36,7 +36,6 @@ rel="noopener noreferrer" auth="NotApplicable"
 linkindex="1"}.
 
 Please contact Brandie Ratliff
-([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable" linkindex="2"}),
+([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)),
 Director, Mary Jaharis Center for Byzantine Art and Culture with any
 questions.

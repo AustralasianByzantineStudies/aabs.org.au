@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Applications Open for Funded MPhil and PhD places in the IRCI (ACU)
+title: |
+   Applications Open for Funded MPhil and PhD places in the IRCI (ACU)
 date: 2020-09-29
 ---
 
@@ -15,5 +16,4 @@ as well as having opportunities to participate in strong international
 networks.
 
 Closing date 18 October!  Further details available
-here: [https://www.acu.edu.au/research/our-research-institutes/institute-for-religion-and-critical-inquiry/study-with-us](https://protect-au.mimecast.com/s/fZm7CK1qwBS2ZLqKrIMBSCy?domain=acu.edu.au "https://www.acu.edu.au/research/our-research-institutes/institute-for-religion-and-critical-inquiry/study-with-us"){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}.
+here: [https://www.acu.edu.au/research/our-research-institutes/institute-for-religion-and-critical-inquiry/study-with-us](https://protect-au.mimecast.com/s/fZm7CK1qwBS2ZLqKrIMBSCy?domain=acu.edu.au "https://www.acu.edu.au/research/our-research-institutes/institute-for-religion-and-critical-inquiry/study-with-us").

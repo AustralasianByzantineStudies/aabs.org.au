@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Imperial Speeches in Ammianus Marcellinus: A Master Class with Jan Willem Drijvers
+title: |
+   Imperial Speeches in Ammianus Marcellinus: A Master Class with Jan Willem Drijvers
 date: 2018-05-22
 ---
 

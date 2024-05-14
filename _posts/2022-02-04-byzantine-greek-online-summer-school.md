@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantine Greek Online Summer School
+title: |
+   Byzantine Greek Online Summer School
 date: 2022-02-04
 ---
 

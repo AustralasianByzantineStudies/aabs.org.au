@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mike Clover and the World of Late Antiquity
+title: |
+   Mike Clover and the World of Late Antiquity
 date: 2019-08-13
 ---
 

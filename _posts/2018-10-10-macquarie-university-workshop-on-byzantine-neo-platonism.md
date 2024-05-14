@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Macquarie University: Workshop on Byzantine (Neo)Platonism
+title: |
+   Macquarie University: Workshop on Byzantine (Neo)Platonism
 date: 2018-10-10
 ---
 

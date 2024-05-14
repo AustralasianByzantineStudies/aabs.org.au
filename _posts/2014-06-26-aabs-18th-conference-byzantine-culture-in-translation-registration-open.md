@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AABS 18th Conference: Byzantine Culture in Translation - Registration Open
+title: |
+   AABS 18th Conference: Byzantine Culture in Translation - Registration Open
 date: 2014-06-26
 ---
 

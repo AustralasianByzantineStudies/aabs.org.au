@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Spatial Turn in Roman Studies
+title: |
+   The Spatial Turn in Roman Studies
 date: 2019-05-15
 ---
 

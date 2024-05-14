@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mary Jaharis Center Sponsored Panel, 54th International Congress on Medieval Studies 
+title: |
+   Mary Jaharis Center Sponsored Panel, 54th International Congress on Medieval Studies 
 date: 2018-05-15
 ---
 
@@ -54,7 +55,7 @@ conference registration, transportation, and food and lodging. Receipts
 are required for reimbursement.
 
 Please contact Brandie
-Ratliff ([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){#LPlnk240161}),
+Ratliff ([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)),
 Director, Mary Jaharis Center for Byzantine Art and Culture with any
 questions. [Further information about the International Congress on
 Medieval Studies](https://wmich.edu/medievalcongress).

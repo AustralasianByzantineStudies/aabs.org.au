@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Good Behavior/Bad Behavior: Asserting and Advocating Behavioral Norms in Late Antiquity and the Early Middle Ages
+title: |
+   Good Behavior/Bad Behavior: Asserting and Advocating Behavioral Norms in Late Antiquity and the Early Middle Ages
 date: 2014-07-11
 ---
 

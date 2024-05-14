@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Tsakopoulos Hellenic Collection Library Research Fellowship Program, 2016-2017
+title: |
+   Tsakopoulos Hellenic Collection Library Research Fellowship Program, 2016-2017
 date: 2016-01-22
 ---
 
@@ -40,12 +41,12 @@ Collection, with a rich assortment of primary source materials. Since
 2009 the collection has experienced particularly dramatic growth through
 two major gift acquisitions. For further information about the
 Tsakopoulos Hellenic Collection, visit
-[http://library.csus.edu/tsakopoulos](http://library.csus.edu/tsakopoulos){target="_blank"}.
+[http://library.csus.edu/tsakopoulos](http://library.csus.edu/tsakopoulos).
 
 For
 the full Library Research Fellowship Program description and application
 instructions, see:
-[http://library.csus.edu/tsakopoulos/lrfp.asp.html](http://library.csus.edu/tsakopoulos/lrfp.asp.html){target="_blank"}.
+[http://library.csus.edu/tsakopoulos/lrfp.asp.html](http://library.csus.edu/tsakopoulos/lrfp.asp.html).
 Questions about the Program can be directed to George I. Paganelis,
 Curator, Tsakopoulos Hellenic Collection
-([paganelis@csus.edu](mailto:paganelis@csus.edu){target="_blank"}).
+([paganelis@csus.edu](mailto:paganelis@csus.edu)).

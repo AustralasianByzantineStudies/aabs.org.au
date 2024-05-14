@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Reconsidering the Concept of Decline and the Arts of the Palaiologan Era
+title: |
+   Reconsidering the Concept of Decline and the Arts of the Palaiologan Era
 date: 2016-07-19
 ---
 
@@ -73,9 +74,9 @@ Topics may include but are not limited to:
 Titles of proposed papers, abstracts of 250 words, and a short CV
 should be sent to Maria Alessia Rossi (The Courtauld Institute of Art)
 --
-[m.alessiarossi@icloud.com](mailto:m.alessiarossi@icloud.com){target="_blank"}
+[m.alessiarossi@icloud.com](mailto:m.alessiarossi@icloud.com)
 and Andrea Mattiello (The University of Birmingham) --
-[axm570@bham.ac.uk](mailto:axm570@bham.ac.uk){target="_blank"} by **30
+[axm570@bham.ac.uk](mailto:axm570@bham.ac.uk) by **30
 September, 2016**.
 
 

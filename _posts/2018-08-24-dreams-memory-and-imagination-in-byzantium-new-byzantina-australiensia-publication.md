@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Dreams, Memory and Imagination in Byzantium - New Byzantina Australiensia Publication
+title: |
+   Dreams, Memory and Imagination in Byzantium - New Byzantina Australiensia Publication
 date: 2018-08-24
 ---
 
-[![byzaus24](http://www.aabs.org.au//wp-content/uploads/wp-content/uploads/2018/08/byzaus24-199x300.jpg){width="199"
-height="300"}](http://www.aabs.org.au//wp-content/uploads/wp-content/uploads/2018/08/byzaus24.jpg)
+[![byzaus24](http://www.aabs.org.au//wp-content/uploads/wp-content/uploads/2018/08/byzaus24-199x300.jpg)](http://www.aabs.org.au//wp-content/uploads/wp-content/uploads/2018/08/byzaus24.jpg)
 
 Editors:
 Bronwen Neil and Eva Anagnostou-Laoutides

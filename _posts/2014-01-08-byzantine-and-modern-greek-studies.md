@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Byzantine and Modern Greek Studies
+title: |
+   Byzantine and Modern Greek Studies
 date: 2014-01-08
 ---
 
-[![BYZ_RGB](http://www.aabs.org.au//wp-content/uploads/wp-content/uploads/2014/01/BYZ_RGB-211x300.jpg){.size-medium
-.wp-image-442 .aligncenter width="211" height="300"}Byzantine and Modern
+[![BYZ_RGB](http://www.aabs.org.au//wp-content/uploads/wp-content/uploads/2014/01/BYZ_RGB-211x300.jpg)Byzantine and Modern
 Greek Studies](http://www.maneyonline.com/loi/byz) is an internationally
 recognised, peer-reviewed journal and one of the leading publications in
 its field. Published twice a year, its remit has always been to
@@ -43,7 +43,7 @@ Kyriakidis
 
 To find out how to subscribe, or submit an article
 of your own, visit the journal homepage:
-[www.maneyonline.com/byz](http://www.maneyonline.com/byz){target="_blank"}.
+[www.maneyonline.com/byz](http://www.maneyonline.com/byz).
 
 Please
 direct any questions to <k.smith@maneypublishing.com>.

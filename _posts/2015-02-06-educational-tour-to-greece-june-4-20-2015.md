@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Educational Tour to Greece June 4-20 2015
+title: |
+   Educational Tour to Greece June 4-20 2015
 date: 2015-02-06
 ---
 

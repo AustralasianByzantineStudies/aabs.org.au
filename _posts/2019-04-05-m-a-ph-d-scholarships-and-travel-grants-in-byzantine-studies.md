@@ -1,6 +1,7 @@
 ---
 layout: post
-title: M.A./Ph.D. Scholarships and Travel Grants in Byzantine Studies
+title: |
+   M.A./Ph.D. Scholarships and Travel Grants in Byzantine Studies
 date: 2019-04-05
 ---
 

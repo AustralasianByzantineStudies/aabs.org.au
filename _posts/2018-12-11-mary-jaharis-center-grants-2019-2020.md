@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mary Jaharis Center Grants 2019-2020
+title: |
+   Mary Jaharis Center Grants 2019-2020
 date: 2018-12-11
 ---
 
@@ -27,13 +28,11 @@ submission of first-book projects.
 The application deadline
 for all grants is **February 1, 2019**. For further information, please
 see
-[https://maryjahariscenter.org/grants/](https://protect-au.mimecast.com/s/7yHTCwVLG5hKvgXlCV7k9u?domain=maryjahariscenter.org){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}.
+[https://maryjahariscenter.org/grants/](https://protect-au.mimecast.com/s/7yHTCwVLG5hKvgXlCV7k9u?domain=maryjahariscenter.org).
 
 Contact
 Brandie Ratliff
-([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}), Director, Mary Jaharis
+([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)), Director, Mary Jaharis
 Center, with any questions.
 
 Brandie Ratliff
@@ -43,9 +42,7 @@ Hellenic College
 Holy Cross
 50 Goddard Avenue, Brookline, MA 02445,
 USA
-E-mail: [mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}
+E-mail: [mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)
 Tel: + 617 850
 1242
-[www.maryjahariscenter.org](https://protect-au.mimecast.com/s/yasACxnMJ5skLPKECvz9In?domain=maryjahariscenter.org){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}
+[www.maryjahariscenter.org](https://protect-au.mimecast.com/s/yasACxnMJ5skLPKECvz9In?domain=maryjahariscenter.org)

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Cities, Territories and Identities: 1st International Conference - Roman and Late Antique Thrace
+title: |
+   Cities, Territories and Identities: 1st International Conference - Roman and Late Antique Thrace
 date: 2016-03-20
 ---
 
@@ -28,4 +29,4 @@ proceedings of the conference will be published before the next edition
 of the event in autumn 2017.
 
 More information at 
-[http://naim.bg/en/content/news/600/857/629/](http://naim.bg/en/content/news/600/857/629/){target="_blank"}.
+[http://naim.bg/en/content/news/600/857/629/](http://naim.bg/en/content/news/600/857/629/).

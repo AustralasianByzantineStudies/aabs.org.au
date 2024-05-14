@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 43rd ASCS Annual Conference and Meeting – ONLINE
+title: |
+   43rd ASCS Annual Conference and Meeting – ONLINE
 date: 2022-01-08
 ---
 

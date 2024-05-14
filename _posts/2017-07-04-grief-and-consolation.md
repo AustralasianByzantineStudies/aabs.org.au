@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Grief and Consolation
+title: |
+   Grief and Consolation
 date: 2017-07-04
 ---
 
@@ -10,13 +11,11 @@ Advanced Studies, The University of Western Australia
 September 2017**
 
 More info:
-[http://www.historyofemotions.org.au/events/grief-and-consolation](http://www.historyofemotions.org.au/events/grief-and-consolation){target="_blank"
-rel="noopener"}
+[http://www.historyofemotions.org.au/events/grief-and-consolation](http://www.historyofemotions.org.au/events/grief-and-consolation)
 Submissions Deadline: 1 August,
 2017
 Submissions: Send to Lara O'Sullivan
-([lara.osullivan@uwa.edu.au](mailto:lara.osullivan@uwa.edu.au){target="_blank"
-rel="noopener"})
+([lara.osullivan@uwa.edu.au](mailto:lara.osullivan@uwa.edu.au))
 
 Grief, particularly the grief associated
 with bereavement, has been a constant companion of humanity throughout

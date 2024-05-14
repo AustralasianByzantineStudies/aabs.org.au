@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Semester 1 2021 Centre for Classical Studies Seminar Series
+title: |
+   Semester 1 2021 Centre for Classical Studies Seminar Series
 date: 2021-01-25
 ---
 

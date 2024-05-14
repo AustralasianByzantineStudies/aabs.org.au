@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Visualization of the Late Antique City
+title: |
+   The Visualization of the Late Antique City
 date: 2014-04-25
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mary Jaharis Center Lecture: Ritual and Politics in Early Rus
+title: |
+   Mary Jaharis Center Lecture: Ritual and Politics in Early Rus
 date: 2021-02-13
 ---
 
@@ -20,13 +21,12 @@ be sent 1--2 hours ahead of the lecture. Registration closes at 10:00 AM
 on March 4, 2021.
 
 Register here:
-[https://maryjahariscenter.org/events/ritual-and-politics-in-early-rus](https://maryjahariscenter.org/events/ritual-and-politics-in-early-rus){target="_blank"}
+[https://maryjahariscenter.org/events/ritual-and-politics-in-early-rus](https://maryjahariscenter.org/events/ritual-and-politics-in-early-rus)
 
 Mary
 Jaharis Center lectures are co-sponsored by Harvard University Standing
 Committee on Medieval Studies.
 
 Contact Brandie Ratliff
-([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}), Director, Mary Jaharis
+([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)), Director, Mary Jaharis
 Center for Byzantine Art and Culture, with any questions.

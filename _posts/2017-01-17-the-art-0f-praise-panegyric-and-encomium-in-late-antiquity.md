@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Art 0f Praise: Panegyric and Encomium in Late Antiquity
+title: |
+   The Art 0f Praise: Panegyric and Encomium in Late Antiquity
 date: 2017-01-17
 ---
 
@@ -39,13 +40,13 @@ etc.
 Abstracts for papers requiring a maximum of twenty
 minutes to deliver should be sent no later than **February 15, 2017**by
 email attachment to Paul Kimball at
-[pkimball@bilkent.edu.tr](mailto:pkimball@bilkent.edu.tr){target="_blank"}.
+[pkimball@bilkent.edu.tr](mailto:pkimball@bilkent.edu.tr).
 All submissions will be judged anonymously by two referees. Prospective
 panelists must be members in good standing of the SCS at the time of
 submission and must include their membership number in the cover letter
 accompanying their abstract. Please follow the SCS's instructions for
 the format of individual abstracts:
-[https://classicalstudies.org/annual-meeting/guidelines-authors-abstracts](https://protect-au.mimecast.com/s/6eKvBwH7n11XSV?domain=classicalstudies.org){target="_blank"}.
+[https://classicalstudies.org/annual-meeting/guidelines-authors-abstracts](https://protect-au.mimecast.com/s/6eKvBwH7n11XSV?domain=classicalstudies.org).
 The submission of an abstract represents a commitment to attend the 2018
 meeting should the abstract be accepted. No papers will be read *in
 absentia* and the SLA is unable to provide funding for travel to

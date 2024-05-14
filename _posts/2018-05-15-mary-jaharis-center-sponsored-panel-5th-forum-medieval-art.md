@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mary Jaharis Center Sponsored Panel, 5th Forum Medieval Art
+title: |
+   Mary Jaharis Center Sponsored Panel, 5th Forum Medieval Art
 date: 2018-05-15
 ---
 
@@ -85,7 +86,7 @@ lodging. Receipts are required for reimbursement.
 
 Please
 contact Brandie Ratliff
-([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){#LPlnk939640}), Director,
+([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)), Director,
 Mary Jaharis Center for Byzantine Art and Culture with any
 questions.
 

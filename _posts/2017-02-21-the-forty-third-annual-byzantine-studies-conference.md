@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Forty-Third Annual Byzantine Studies Conference
+title: |
+   The Forty-Third Annual Byzantine Studies Conference
 date: 2017-02-21
 ---
 
@@ -21,7 +22,7 @@ disciplines, and on diverse topics related to Byzantine Studies are
 encouraged. Notice of acceptance or rejection will be sent by email by
 March 15. For inquiries, please contact the 2017 BSC Program Chair,
 Sarah Brooks
-([brooksst@jmu.edu](mailto:brooksst@jmu.edu){target="_blank"}).
+([brooksst@jmu.edu](mailto:brooksst@jmu.edu)).
 
 The
 BSC is the annual forum for the presentation and discussion of papers on
@@ -31,7 +32,7 @@ occasion of the annual meeting of the Byzantine Studies Association of
 North America (BSANA).
 
 Full CFP instructions:
-[http://www.bsana.net/conference/index.html](http://www.bsana.net/conference/index.html){target="_blank"}.
+[http://www.bsana.net/conference/index.html](http://www.bsana.net/conference/index.html).
 
 Proposals
 are submitted as individual abstracts. Proposals consist of:

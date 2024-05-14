@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantina Australiensia Now Available Online at Brill
+title: |
+   Byzantina Australiensia Now Available Online at Brill
 date: 2017-04-05
 ---
 

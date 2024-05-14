@@ -1,6 +1,7 @@
 ---
 layout: post
-title: French Committee of Byzantine Studies Expresses Concern at Turkish Conversion of Byzantine Buildings into Mosques
+title: |
+   French Committee of Byzantine Studies Expresses Concern at Turkish Conversion of Byzantine Buildings into Mosques
 date: 2015-07-03
 ---
 

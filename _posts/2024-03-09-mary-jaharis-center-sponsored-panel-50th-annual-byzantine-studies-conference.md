@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mary Jaharis Center Sponsored Panel, 50th Annual Byzantine Studies Conference
+title: |
+   Mary Jaharis Center Sponsored Panel, 50th Annual Byzantine Studies Conference
 date: 2024-03-09
 ---
 
@@ -30,4 +31,4 @@ linkindex="0"}
 
 Contact Brandie Ratliff, Director, Mary
 Jaharis Center for Byzantine Art and Culture, with any questions:
-[mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){linkindex="1"}.
+[mjcbac@hchc.edu](mailto:mjcbac@hchc.edu).

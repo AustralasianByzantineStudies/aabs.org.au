@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Call for Proposals: New Trajectories in Australian Research on Late Antiquity and Early Christian 
+title: |
+   Call for Proposals: New Trajectories in Australian Research on Late Antiquity and Early Christian 
 date: 2021-04-16
 ---
 

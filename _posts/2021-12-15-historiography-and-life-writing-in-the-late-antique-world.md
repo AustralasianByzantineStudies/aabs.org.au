@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Historiography and Life Writing in the Late Antique World
+title: |
+   Historiography and Life Writing in the Late Antique World
 date: 2021-12-15
 ---
 
@@ -69,5 +70,5 @@ conference.
 Applications from all scholars, including
 postgraduate students, are welcome. Abstracts of 500 words should be
 sent to
-[karl.dahm@kcl.ac.uk](mailto:karl.dahm@kcl.ac.uk){target="_blank"} by
+[karl.dahm@kcl.ac.uk](mailto:karl.dahm@kcl.ac.uk) by
 5:00 pm on **14 January 2022**.

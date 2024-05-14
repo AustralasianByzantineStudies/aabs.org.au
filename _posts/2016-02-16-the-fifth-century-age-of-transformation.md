@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Fifth Century: Age of Transformation
+title: |
+   The Fifth Century: Age of Transformation
 date: 2016-02-16
 ---
 

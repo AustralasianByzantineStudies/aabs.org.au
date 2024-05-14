@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mary Jaharis Center Sponsored Panel at Leeds 2020
+title: |
+   Mary Jaharis Center Sponsored Panel at Leeds 2020
 date: 2019-08-02
 ---
 
@@ -13,15 +14,13 @@ any topic relevant to Byzantine studies.
 
 The thematic strand
 for the 2029 IMC is "Borders." See the IMC Call for Papers
-([https://www.imc.leeds.ac.uk/imc2020/](https://protect-au.mimecast.com/s/zodIC6X1PyskZNqyspyk9r?domain=imc.leeds.ac.uk){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}) for additional
+([https://www.imc.leeds.ac.uk/imc2020/](https://protect-au.mimecast.com/s/zodIC6X1PyskZNqyspyk9r?domain=imc.leeds.ac.uk)) for additional
 information about the theme and suggested areas of
 discussion.
 
 Session proposals must be submitted through the
 Mary Jaharis Center website
-([https://maryjahariscenter.org/sponsored-sessions/27th-international-medieval-congress](https://protect-au.mimecast.com/s/QT_mC71ZQzSMngwZhW9BAM?domain=maryjahariscenter.org){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}). The deadline for
+([https://maryjahariscenter.org/sponsored-sessions/27th-international-medieval-congress](https://protect-au.mimecast.com/s/QT_mC71ZQzSMngwZhW9BAM?domain=maryjahariscenter.org)). The deadline for
 submission is **September 3, 2019**. Proposals should
 include:
 **Title
@@ -58,6 +57,5 @@ food and lodging. Receipts are required for
 reimbursement.
 
 Please contact Brandie Ratliff
-([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}), Director, Mary Jaharis
+([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)), Director, Mary Jaharis
 Center for Byzantine Art and Culture with any questions.

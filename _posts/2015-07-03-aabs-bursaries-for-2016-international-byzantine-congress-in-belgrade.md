@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AABS Bursaries for 2016 International Byzantine Congress in Belgrade
+title: |
+   AABS Bursaries for 2016 International Byzantine Congress in Belgrade
 date: 2015-07-03
 ---
 
@@ -19,7 +20,7 @@ AABS.
 
 Please submit applications and any questions to the
 President, Dr Ken Parry, at
-[ken.parry@mq.edu.au](mailto:ken.parry@mq.edu.au){target="_blank"}.
+[ken.parry@mq.edu.au](mailto:ken.parry@mq.edu.au).
 
 Please
 circulate this offer among your colleagues and students.

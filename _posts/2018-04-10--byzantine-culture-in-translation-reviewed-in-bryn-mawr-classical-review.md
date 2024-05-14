@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Byzantine Culture in Translation' reviewed in Bryn Mawr Classical Review
+title: |
+   'Byzantine Culture in Translation' reviewed in Bryn Mawr Classical Review
 date: 2018-04-10
 ---
 

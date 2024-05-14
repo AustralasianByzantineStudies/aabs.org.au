@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Shifting Frontiers in Late Antiquity XI
+title: |
+   Shifting Frontiers in Late Antiquity XI
 date: 2014-05-19
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Call For Papers: PPLA Lightning Paper Conference
+title: |
+   Call For Papers: PPLA Lightning Paper Conference
 date: 2022-08-12
 ---
 
@@ -12,6 +13,6 @@ research.  The format will follow that of the lightning papers - 5
 minutes for presenting the paper, 10 minutes for discussion of each
 paper.  If you are interested in presenting a paper or a panel of
 papers, please submit a short (150 word) abstract to [Lisa
-Bailey](mailto:lk.bailey@auckland.ac.nz){auth="NotApplicable"} by
+Bailey](mailto:lk.bailey@auckland.ac.nz) by
 **October 1**.  Please circulate to any graduate students; we are
 particularly keen to encourage graduate student participation!

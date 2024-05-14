@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Call for Applications: Postdoctoral Fellowships in Byzantine Studies (2021-2022) 
+title: |
+   Call for Applications: Postdoctoral Fellowships in Byzantine Studies (2021-2022) 
 date: 2020-11-17
 ---
 
@@ -20,5 +21,4 @@ Application deadline: 22 December 2020
 
 
 For further information please
-visit [http://byzantinestudies.boun.edu.tr/index.php?page=events&id=54](https://protect-au.mimecast.com/s/949TCjZroMFngkyVmsWtvVr?domain=byzantinestudies.boun.edu.tr){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}.
+visit [http://byzantinestudies.boun.edu.tr/index.php?page=events&id=54](https://protect-au.mimecast.com/s/949TCjZroMFngkyVmsWtvVr?domain=byzantinestudies.boun.edu.tr).

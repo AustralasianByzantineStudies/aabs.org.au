@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AABS Subscriptions for 2016-2018 
+title: |
+   AABS Subscriptions for 2016-2018 
 date: 2016-06-07
 ---
 

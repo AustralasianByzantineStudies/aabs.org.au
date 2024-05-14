@@ -1,20 +1,19 @@
 ---
 layout: post
-title: American Research Institute in Turkey Fellowships, 2022-2023
+title: |
+   American Research Institute in Turkey Fellowships, 2022-2023
 date: 2021-09-01
 ---
 
 [The [**American Research Institute in Turkey**
-(**ARIT**)](https://protect-au.mimecast.com/s/_95nCzvOL5hMrAPgqI4CH0_?domain=aritweb.org){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable" linkindex="0"} is pleased
+(**ARIT**)](https://protect-au.mimecast.com/s/_95nCzvOL5hMrAPgqI4CH0_?domain=aritweb.org) is pleased
 to announce 2022-2023 fellowship programs for students and scholars
 based in the U.S. and
 Canada: ]{style="font-size: small;"}
 
 [[**ARIT / National
 Endowment for the Humanities Advanced Fellowships for Research in
-Turkey**](https://protect-au.mimecast.com/s/nmW1CANZ0ohNRzm6Oi8CSo4?domain=aritweb.org){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable" linkindex="1"} cover all
+Turkey**](https://protect-au.mimecast.com/s/nmW1CANZ0ohNRzm6Oi8CSo4?domain=aritweb.org) cover all
 fields of the humanities, including prehistory, art, archaeology,
 anthropology, literature, and linguistics, as well as all aspects of
 history.  The fellowships support applicants who have completed their
@@ -24,8 +23,7 @@ four months to a full year. 
 
 [[**ARIT Fellowships for
 Research in
-Turkey**](https://protect-au.mimecast.com/s/53GCCBNZkph7nOZ6KuNDCD4?domain=aritweb.org){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable" linkindex="2"} are
+Turkey**](https://protect-au.mimecast.com/s/53GCCBNZkph7nOZ6KuNDCD4?domain=aritweb.org) are
 offered for research in ancient, medieval, or modern times, in any field
 of the humanities and social sciences.  Post-doctoral and advanced
 doctoral fellowships may be held for various terms, for terms from one
@@ -39,8 +37,7 @@ The fellowship committee will notify applicants in late January
 
 [[**ARIT Summer Fellowships
 for Advanced Turkish
-Language**](https://protect-au.mimecast.com/s/XrxoCD1jmrS5xk6vATZxbKQ?domain=aritweb.org){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable" linkindex="3"} in
+Language**](https://protect-au.mimecast.com/s/XrxoCD1jmrS5xk6vATZxbKQ?domain=aritweb.org) in
 Istanbul offers intensive advanced study of Turkish at Bogazici
 University for summer 2022.  Participants must have two years of Turkish
 language study or the equivalent.  The application deadline will be in

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The Life of Saint Pankratios of Taormina - New Byzantina Australiensia Publication
+title: |
+   The Life of Saint Pankratios of Taormina - New Byzantina Australiensia Publication
 date: 2018-08-15
 ---
 
-[![BYZA_022_uspod_v1.indd](http://www.aabs.org.au//wp-content/uploads/wp-content/uploads/2018/08/byzaus22-199x300.jpg){width="199"
-height="300"}](http://www.aabs.org.au//wp-content/uploads/wp-content/uploads/2018/08/byzaus22.jpg)
+[![BYZA_022_uspod_v1.indd](http://www.aabs.org.au//wp-content/uploads/wp-content/uploads/2018/08/byzaus22-199x300.jpg)](http://www.aabs.org.au//wp-content/uploads/wp-content/uploads/2018/08/byzaus22.jpg)
 
 Greek
 text, English translation and commentary

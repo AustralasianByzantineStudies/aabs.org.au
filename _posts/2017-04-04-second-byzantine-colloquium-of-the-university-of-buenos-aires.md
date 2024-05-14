@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Second Byzantine Colloquium of the University Of Buenos Aires
+title: |
+   Second Byzantine Colloquium of the University Of Buenos Aires
 date: 2017-04-04
 ---
 
@@ -12,7 +13,7 @@ Buenos Aires, **28--29 August 2017**
 [Download
 details](http://www.aabs.org.au/wp-content/uploads/2017/04/UBA_2017_callEnglish_infoSpanish.pdf)
 or see
-[www.arts.kuleuven.be/byzantium](www.arts.kuleuven.be/byzantium)){target="_blank"}.
+[www.arts.kuleuven.be/byzantium](www.arts.kuleuven.be/byzantium)).
 
 Rivers
 of ink have flown since A. Kazhdan's seminal contribution, "Byzantine
@@ -48,6 +49,5 @@ learning" are also welcome.
 
 Please send your abstract no
 later than **May 31 2017** to
-[Tomas.Fernandez@conicet.gov.ar](mailto:Tomas.Fernandez@conicet.gov.ar){target="_blank"},
-[pablo.a.cavallero@gmail.com](mailto:pablo.a.cavallero@gmail.com){target="_blank"}.
+[Tomas.Fernandez@conicet.gov.ar](mailto:Tomas.Fernandez@conicet.gov.ar),[pablo.a.cavallero@gmail.com](mailto:pablo.a.cavallero@gmail.com).
 Any query or comment will also be more than welcome.

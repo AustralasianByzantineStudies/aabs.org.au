@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Database of Byzantine Book Epigrams
+title: |
+   Database of Byzantine Book Epigrams
 date: 2015-12-16
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Outlandish Knight: The Byzantine Life of Steven Runciman
+title: |
+   Outlandish Knight: The Byzantine Life of Steven Runciman
 date: 2018-04-13
 ---
 

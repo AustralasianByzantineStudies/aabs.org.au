@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Art and Religions of Antiquity
+title: |
+   Art and Religions of Antiquity
 date: 2014-02-11
 ---
 

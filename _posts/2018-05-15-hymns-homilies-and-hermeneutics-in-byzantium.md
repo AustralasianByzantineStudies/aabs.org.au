@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hymns, Homilies and Hermeneutics in Byzantium
+title: |
+   Hymns, Homilies and Hermeneutics in Byzantium
 date: 2018-05-15
 ---
 
@@ -27,5 +28,5 @@ this event is available
 and the program
 [here](http://www.aabs.org.au/wp-content/uploads/2018/05/180511-Hymns-Homilies-and-Hermeneutics-in-Byzantiumprogram.pdf).
 If you are interested in attending, please contact Andrew Mellas
-at [andrew.mellas@sydney.edu.au](mailto:andrew.mellas@sydney.edu.au){target="_blank"} by **30
+at [andrew.mellas@sydney.edu.au](mailto:andrew.mellas@sydney.edu.au) by **30
 June 2018**.

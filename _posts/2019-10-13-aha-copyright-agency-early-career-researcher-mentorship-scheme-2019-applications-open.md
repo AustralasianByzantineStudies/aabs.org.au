@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AHA/Copyright Agency Early Career Researcher Mentorship Scheme 2019 Applications Open
+title: |
+   AHA/Copyright Agency Early Career Researcher Mentorship Scheme 2019 Applications Open
 date: 2019-10-13
 ---
 
@@ -21,5 +22,4 @@ networks.
 
 Further information:
 [http://www.theaha.org.au/awards-and-prizes/aha-copyright-agency-early-career-researcher-mentorship-scheme-2/
-](https://protect-au.mimecast.com/s/o8EJCyoNK5UMR0gVIZvqzi?domain=theaha.org.au){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}
+](https://protect-au.mimecast.com/s/o8EJCyoNK5UMR0gVIZvqzi?domain=theaha.org.au)

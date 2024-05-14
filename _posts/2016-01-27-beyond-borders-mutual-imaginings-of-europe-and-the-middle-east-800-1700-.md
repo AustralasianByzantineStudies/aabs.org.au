@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Beyond Borders: Mutual Imaginings of Europe and the Middle East (800-1700)
+title: |
+   Beyond Borders: Mutual Imaginings of Europe and the Middle East (800-1700)
 date: 2016-01-27
 ---
 
@@ -30,7 +31,7 @@ Barnard College.
 
 Please send an abstract (with title) of
 approximately 200 words and CV to
-[lpostlew@barnard.edu](mailto:lpostlew@barnard.edu){target="_blank"}.
+[lpostlew@barnard.edu](mailto:lpostlew@barnard.edu).
 Presentations should be 20 minutes.
 
 Deadline: **April 10,

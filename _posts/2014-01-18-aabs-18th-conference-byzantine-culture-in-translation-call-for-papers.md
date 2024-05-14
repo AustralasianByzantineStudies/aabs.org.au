@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AABS 18th Conference: Byzantine Culture in Translation - Call for Papers
+title: |
+   AABS 18th Conference: Byzantine Culture in Translation - Call for Papers
 date: 2014-01-18
 ---
 

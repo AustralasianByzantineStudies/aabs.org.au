@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Rise and Fall of Nikephoras II Phokas – New Byzantina Australiensia Publication
+title: |
+   The Rise and Fall of Nikephoras II Phokas – New Byzantina Australiensia Publication
 date: 2018-11-23
 ---
 

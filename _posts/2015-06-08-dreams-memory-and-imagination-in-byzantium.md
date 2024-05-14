@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Dreams, Memory and Imagination in Byzantium
+title: |
+   Dreams, Memory and Imagination in Byzantium
 date: 2015-06-08
 ---
 

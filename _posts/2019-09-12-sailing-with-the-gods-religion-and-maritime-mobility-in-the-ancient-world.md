@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Sailing with the Gods: Religion and Maritime Mobility in the Ancient World
+title: |
+   Sailing with the Gods: Religion and Maritime Mobility in the Ancient World
 date: 2019-09-12
 ---
 

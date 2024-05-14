@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Call for Sessions: Mary Jaharis Center Sponsored Panel, 45th Annual Byzantine Studies Conference
+title: |
+   Call for Sessions: Mary Jaharis Center Sponsored Panel, 45th Annual Byzantine Studies Conference
 date: 2019-01-26
 ---
 
@@ -13,8 +14,7 @@ studies.
 
 Session proposals must be submitted through the Mary
 Jaharis Center website site
-([https://maryjahariscenter.org/sponsored-sessions/45th-annual-byzantine-studies-conference](https://protect-au.mimecast.com/s/-P-1CjZroMFN9PyZsW0e5u?domain=maryjahariscenter.org){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}). The deadline for
+([https://maryjahariscenter.org/sponsored-sessions/45th-annual-byzantine-studies-conference](https://protect-au.mimecast.com/s/-P-1CjZroMFN9PyZsW0e5u?domain=maryjahariscenter.org)). The deadline for
 submission is **February 10, 2019**. Proposals should include:
 
 
@@ -41,8 +41,7 @@ Applicants will be notified by February 15, 2019.
 The organizer of the selected session is responsible for submitting the
 session to the BSC by February 25, 2019. Instructions for submitting the
 panel proposal are included in the BSC Call for Papers
-([http://www.bsana.net/conference/2019_BSANA_CFP.pdf](https://protect-au.mimecast.com/s/RY-JCk8vpKsGN1qouVlIbl?domain=bsana.net){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}).
+([http://www.bsana.net/conference/2019_BSANA_CFP.pdf](https://protect-au.mimecast.com/s/RY-JCk8vpKsGN1qouVlIbl?domain=bsana.net)).
 
 If the
 proposed session is approved, the Mary Jaharis Center will reimburse
@@ -56,6 +55,5 @@ lodging. Receipts are required for reimbursement.
 
 Please
 contact Brandie Ratliff
-([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable"}), Director, Mary Jaharis
+([mjcbac@hchc.edu](mailto:mjcbac@hchc.edu)), Director, Mary Jaharis
 Center for Byzantine Art and Culture with any questions.

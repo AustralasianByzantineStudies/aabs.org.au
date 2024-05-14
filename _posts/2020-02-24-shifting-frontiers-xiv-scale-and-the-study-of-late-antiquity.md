@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Shifting Frontiers XIV: Scale and the Study of Late Antiquity
+title: |
+   Shifting Frontiers XIV: Scale and the Study of Late Antiquity
 date: 2020-02-24
 ---
 

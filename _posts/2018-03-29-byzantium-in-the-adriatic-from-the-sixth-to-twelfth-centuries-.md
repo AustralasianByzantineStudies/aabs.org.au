@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantium in the Adriatic from the Sixth to Twelfth Centuries 
+title: |
+   Byzantium in the Adriatic from the Sixth to Twelfth Centuries 
 date: 2018-03-29
 ---
 

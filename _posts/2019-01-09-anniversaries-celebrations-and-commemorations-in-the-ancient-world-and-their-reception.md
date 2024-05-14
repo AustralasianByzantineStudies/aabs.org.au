@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Anniversaries, Celebrations and Commemorations in the Ancient World and Their Reception
+title: |
+   Anniversaries, Celebrations and Commemorations in the Ancient World and Their Reception
 date: 2019-01-09
 ---
 

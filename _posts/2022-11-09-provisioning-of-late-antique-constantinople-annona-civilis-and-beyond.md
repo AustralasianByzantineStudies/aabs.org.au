@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Provisioning of Late Antique Constantinople: Annona Civilis and Beyond
+title: |
+   Provisioning of Late Antique Constantinople: Annona Civilis and Beyond
 date: 2022-11-09
 ---
 

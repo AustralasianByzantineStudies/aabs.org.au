@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AABS 20th Conference: Dissidence and Persecution in Byzantium
+title: |
+   AABS 20th Conference: Dissidence and Persecution in Byzantium
 date: 2018-04-03
 ---
 

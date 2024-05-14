@@ -1,6 +1,7 @@
 ---
 layout: post
-title: MA and PhD Scholarships in Byzantine Studies
+title: |
+   MA and PhD Scholarships in Byzantine Studies
 date: 2018-02-12
 ---
 
@@ -15,7 +16,7 @@ Scholarships.
 
 For
 more information please visit
-[http://byzantinestudies.boun.edu.tr/index.php?page=events&id=24](http://byzantinestudies.boun.edu.tr/index.php?page=events&id=24){target="_blank"}.
+[http://byzantinestudies.boun.edu.tr/index.php?page=events&id=24](http://byzantinestudies.boun.edu.tr/index.php?page=events&id=24).
 
 Byzantine
 Studies Research Center

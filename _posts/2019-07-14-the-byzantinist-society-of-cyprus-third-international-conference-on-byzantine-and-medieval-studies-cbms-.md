@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Byzantinist Society of Cyprus Third International Conference on Byzantine and Medieval Studies (CBMS)
+title: |
+   The Byzantinist Society of Cyprus Third International Conference on Byzantine and Medieval Studies (CBMS)
 date: 2019-07-14
 ---
 

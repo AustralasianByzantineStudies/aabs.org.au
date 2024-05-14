@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Call for Sessions: Mary Jaharis Center Sponsored Panel, 7th Forum Medieval Art
+title: |
+   Call for Sessions: Mary Jaharis Center Sponsored Panel, 7th Forum Medieval Art
 date: 2023-05-02
 ---
 

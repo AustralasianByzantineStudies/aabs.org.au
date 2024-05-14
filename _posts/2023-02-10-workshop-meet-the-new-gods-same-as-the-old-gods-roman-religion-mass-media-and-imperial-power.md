@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Workshop: Meet the New Gods, Same as the Old Gods?: Roman Religion, Mass Media and Imperial Power
+title: |
+   Workshop: Meet the New Gods, Same as the Old Gods?: Roman Religion, Mass Media and Imperial Power
 date: 2023-02-10
 ---
 

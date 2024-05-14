@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Eruption/Disruption/Interruption
+title: |
+   Eruption/Disruption/Interruption
 date: 2021-06-03
 ---
 
@@ -80,8 +81,7 @@ All sessions will include time for questions and
 general discussion. Please send proposals (150--200 words per paper),
 along with author's name, paper/panel/RT title, and academic affiliation
 (if any) to
-[conference@aema.net.au](mailto:conference@aema.net.au){target="_blank"
-rel="noreferrer noopener" auth="NotApplicable" linkindex="3"} by **31
+[conference@aema.net.au](mailto:conference@aema.net.au) by **31
 July 2021**. Please also direct all other enquiries about the conference
 to this address, as well as any nominations for potentially hosting an
 in-person hub.

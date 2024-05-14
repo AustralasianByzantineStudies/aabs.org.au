@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Manar al-Athar Web Site
+title: |
+   Manar al-Athar Web Site
 date: 2019-11-12
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mary Jaharis Center Sponsored Panel, 59th International Congress on Medieval Studies
+title: |
+   Mary Jaharis Center Sponsored Panel, 59th International Congress on Medieval Studies
 date: 2023-04-15
 ---
 

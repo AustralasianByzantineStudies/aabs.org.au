@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 2023 Online Byzantine Greek Summer School, Bogazici University Byzantine Studies Research Center
+title: |
+   2023 Online Byzantine Greek Summer School, Bogazici University Byzantine Studies Research Center
 date: 2023-05-12
 ---
 
@@ -22,7 +23,7 @@ successful completion of the program.
 For more information, please
 visit:
 
-[http://byzantinestudies.boun.edu.tr/index.php?page=events&id=70](http://byzantinestudies.boun.edu.tr/index.php?page=events&id=70){target="_blank"}
+[http://byzantinestudies.boun.edu.tr/index.php?page=events&id=70](http://byzantinestudies.boun.edu.tr/index.php?page=events&id=70)
 
 
 <div>

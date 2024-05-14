@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantine Greek Summer School 2019
+title: |
+   Byzantine Greek Summer School 2019
 date: 2019-01-05
 ---
 
@@ -17,7 +18,6 @@ deadline: February 15, 2019
 
 For more information and
 available scholarships please [download the
-flyer](http://www.aabs.org.au/wp-content/uploads/2019/01/Byzantine-Greek-summer-school-2019.pdf){target="_blank"}
+flyer](http://www.aabs.org.au/wp-content/uploads/2019/01/Byzantine-Greek-summer-school-2019.pdf)
 or
-visit [http://byzantinestudies.boun.edu.tr/](http://byzantinestudies.boun.edu.tr/){target="_blank"
-shape="rect"}.
+visit [http://byzantinestudies.boun.edu.tr/](http://byzantinestudies.boun.edu.tr/).

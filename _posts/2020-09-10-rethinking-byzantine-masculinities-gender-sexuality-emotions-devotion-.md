@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Rethinking Byzantine Masculinities: Gender, Sexuality, Emotions, Devotion 
+title: |
+   Rethinking Byzantine Masculinities: Gender, Sexuality, Emotions, Devotion 
 date: 2020-09-10
 ---
 

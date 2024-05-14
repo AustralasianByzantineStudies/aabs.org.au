@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Slow and Fast Violence in Late Antiquity
+title: |
+   Slow and Fast Violence in Late Antiquity
 date: 2022-02-02
 ---
 

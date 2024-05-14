@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  EIKON: Icons of the Orthodox Christian World
+title: |
+    EIKON: Icons of the Orthodox Christian World
 date: 2014-11-10
 ---
 

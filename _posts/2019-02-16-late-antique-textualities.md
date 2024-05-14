@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Late Antique Textualities
+title: |
+   Late Antique Textualities
 date: 2019-02-16
 ---
 

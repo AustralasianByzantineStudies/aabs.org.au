@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  Pacific Partnership in Late Antiquity
+title: |
+    Pacific Partnership in Late Antiquity
 date: 2021-11-09
 ---
 
@@ -52,8 +53,7 @@ over three
 days.
 
 Please submit the following to Mark Masterson
-([Mark.Masterson@vuw.ac.nz](mailto:Mark.Masterson@vuw.ac.nz){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable" linkindex="3"})
+([Mark.Masterson@vuw.ac.nz](mailto:Mark.Masterson@vuw.ac.nz))
 by
 **15 January**:
 
@@ -67,5 +67,4 @@ presentation it is (paper or lightning talk)
 
 If you have
 questions, please contact Ed Watts
-([edward.watts@gmail.com](mailto:edward.watts@gmail.com){target="_blank"
-rel="noopener noreferrer" auth="NotApplicable" linkindex="4"}).
+([edward.watts@gmail.com](mailto:edward.watts@gmail.com)).

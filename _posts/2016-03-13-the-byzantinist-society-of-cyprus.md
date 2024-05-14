@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Byzantinist Society of Cyprus
+title: |
+   The Byzantinist Society of Cyprus
 date: 2016-03-13
 ---
 
@@ -32,9 +33,9 @@ Kakkoura, Andriani Georgiou, Despoina Papacharalampous.
 More
 information and paper proposal submission process at this
 link:
-[http://www.byzantinistsociety.org.cy/wordpress/?p=81](http://www.byzantinistsociety.org.cy/wordpress/?p=81){target="_blank"}
+[http://www.byzantinistsociety.org.cy/wordpress/?p=81](http://www.byzantinistsociety.org.cy/wordpress/?p=81)
 
 Learn
 more about the Byzantinist Society of Cyprus
 here:
-[http://www.byzantinistsociety.org.cy](http://www.byzantinistsociety.org.cy/){target="_blank"}
+[http://www.byzantinistsociety.org.cy](http://www.byzantinistsociety.org.cy/)

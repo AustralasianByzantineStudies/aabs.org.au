@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Seeing Through Byzantium: A Celebration of the Career of Professor Leslie Brubaker
+title: |
+   Seeing Through Byzantium: A Celebration of the Career of Professor Leslie Brubaker
 date: 2022-08-11
 ---
 

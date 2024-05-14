@@ -1,6 +1,7 @@
 ---
 layout: post
-title: AABS Letter to the Australian Minister for Education - Consultation on Job-ready Graduates Package
+title: |
+   AABS Letter to the Australian Minister for Education - Consultation on Job-ready Graduates Package
 date: 2020-08-27
 ---
 

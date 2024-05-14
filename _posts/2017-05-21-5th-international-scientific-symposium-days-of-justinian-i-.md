@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 5th International Scientific Symposium "Days of Justinian I"
+title: |
+   5th International Scientific Symposium "Days of Justinian I"
 date: 2017-05-21
 ---
 
@@ -162,13 +163,11 @@ inquires please contact the Secretary of the Symposium: Dr. Dragan
 Gjalevski:
 
 Please check the Euro-Balkan website:
-[https://protect-au.mimecast.com/s/drx4BDilQ49MI8?domain=euba.edu.mk](https://protect-au.mimecast.com/s/drx4BDilQ49MI8?domain=euba.edu.mk){target="_blank"
-rel="noopener noreferrer"} for news on the Symposium, the agenda,
+[https://protect-au.mimecast.com/s/drx4BDilQ49MI8?domain=euba.edu.mk](https://protect-au.mimecast.com/s/drx4BDilQ49MI8?domain=euba.edu.mk) for news on the Symposium, the agenda,
 special events and the online application
 form.
 
-[https://protect-au.mimecast.com/s/Db1QBvSa02WocQ?domain=academia.edu](https://protect-au.mimecast.com/s/Db1QBvSa02WocQ?domain=academia.edu){target="_blank"
-rel="noopener noreferrer"}
+[https://protect-au.mimecast.com/s/Db1QBvSa02WocQ?domain=academia.edu](https://protect-au.mimecast.com/s/Db1QBvSa02WocQ?domain=academia.edu)
 
 Symposiarch: Professor Mitko B.
 Panov

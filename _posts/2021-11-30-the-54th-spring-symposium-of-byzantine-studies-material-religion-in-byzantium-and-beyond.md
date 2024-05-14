@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The 54th Spring Symposium of Byzantine Studies: Material Religion in Byzantium and Beyond
+title: |
+   The 54th Spring Symposium of Byzantine Studies: Material Religion in Byzantium and Beyond
 date: 2021-11-30
 ---
 
@@ -26,5 +27,5 @@ inaugural lecture and a closing lecture for a wider public, we now
 invite Communications of 10 minutes in duration on current research in
 fields linked to the theme of the Symposium. Please send your abstract
 (of not more than 300 words) to Ine Jacobs
-([Ine.Jacobs@univ.ox.ac.uk](mailto:Ine.Jacobs@univ.ox.ac.uk){target="_blank"})
+([Ine.Jacobs@univ.ox.ac.uk](mailto:Ine.Jacobs@univ.ox.ac.uk))
 by **10 December 2021**.

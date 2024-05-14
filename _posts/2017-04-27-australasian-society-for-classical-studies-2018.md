@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Australasian Society for Classical Studies 2018
+title: |
+   Australasian Society for Classical Studies 2018
 date: 2017-04-27
 ---
 

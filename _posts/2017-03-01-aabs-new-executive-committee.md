@@ -1,14 +1,14 @@
 ---
 layout: post
-title: AABS New Executive Committee
+title: |
+   AABS New Executive Committee
 date: 2017-03-01
 ---
 
 At the Biennial General Meeting of the Association at the conference in
 Melbourne on 25 February new members were elected to the Executive
 Committee. Full contact details are at
-[http://www.aabs.org.au/members/](http://www.aabs.org.au/members/){target="_blank"
-rel="nofollow"}. The Committee now
+[http://www.aabs.org.au/members/](http://www.aabs.org.au/members/). The Committee now
 comprises:
 
 PRESIDENT

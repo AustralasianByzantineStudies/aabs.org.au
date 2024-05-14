@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Byzantina Australiensia Members Discounts
+title: |
+   Byzantina Australiensia Members Discounts
 date: 2014-01-17
 ---
 

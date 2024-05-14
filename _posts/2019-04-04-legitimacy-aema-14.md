@@ -1,6 +1,7 @@
 ---
 layout: post
-title: LEGITIMACY - AEMA 14
+title: |
+   LEGITIMACY - AEMA 14
 date: 2019-04-04
 ---
 

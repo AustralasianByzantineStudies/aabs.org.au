@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Conflicts and Catastrophes in Roman and Late Antique Thrace
+title: |
+   Conflicts and Catastrophes in Roman and Late Antique Thrace
 date: 2020-03-09
 ---
 

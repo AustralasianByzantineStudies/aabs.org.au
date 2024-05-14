@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Spitting on Statues and Saving Hercules’ Beard: The Conflict over Images (and Idols) in Early Christianity
+title: |
+   Spitting on Statues and Saving Hercules’ Beard: The Conflict over Images (and Idols) in Early Christianity
 date: 2017-08-14
 ---
 
